@@ -1,138 +1,161 @@
 [
     {
+        "_id": "5ecc2e34808ff83e440dea9c",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Gor Mourns!",
         "url": "http://gormahiafc.co.ke/gor-mourns/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver6-780x366.jpg",
-        "dateCreated": "3 weeks ago"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver6-780x366.jpg"
     },
     {
+        "_id": "5ecc2e34808ff83e440dea9d",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Match preview: Sony Sugar vs Gor Mahia",
         "url": "http://gormahiafc.co.ke/match-preview-sony-sugar-vs-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Zamalek-1170x600.png",
-        "dateCreated": "April 3, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Zamalek-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440dea9e",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Video: Captain Shakava on RSB BERKANE\n                                      match on Sunday",
         "url": "http://gormahiafc.co.ke/video-captain-shakava-on-rsb-berkane-match-on-sunday/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Haron-Shakava-1170x600.png",
-        "dateCreated": "April 2, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Haron-Shakava-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440dea9f",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Gor five points ahead after 2:1 win\n                                      against Nzoia Sugar",
         "url": "http://gormahiafc.co.ke/gor-five-points-ahead-after-21-win-against-nzoia-sugar/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/04/Geofrey-Ochieng-1170x600.png",
-        "dateCreated": "April 1, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/04/Geofrey-Ochieng-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa0",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Kahata, Juma on score-sheet as Gor beat\n                                      K. Sharks",
         "url": "http://gormahiafc.co.ke/kahata-juma-on-score-sheet-as-gor-beat-k-sharks/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/francis_kahata-1170x600.png",
-        "dateCreated": "March 30, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/francis_kahata-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa1",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Full house as Gor face K. Sharks in\n                                      Kisumu",
         "url": "http://gormahiafc.co.ke/full-house-as-gor-face-k-sharks-in-kisumu/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Joash_Onyango-1170x600.png",
-        "dateCreated": "March 30, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Joash_Onyango-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa2",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Zico: We are at the lakeside for a good\n                                      outing.",
         "url": "http://gormahiafc.co.ke/zico-we-are-at-the-lakeside-for-a-good-outing/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Zedekiah-Otieno-1170x600.png",
-        "dateCreated": "March 29, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Zedekiah-Otieno-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa3",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Oliech’s brace, Muguna, Kipkirui\n                                      score in Kericho",
         "url": "http://gormahiafc.co.ke/oliechs-brace-muguna-kipkirui-score-in-kericho/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png",
-        "dateCreated": "March 27, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa4",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Cercidy, Muguna in the mid as Gor face\n                                      Zoo Kericho",
         "url": "http://gormahiafc.co.ke/cercidy-muguna-in-the-mid-as-gor-face-zoo-kericho/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kennath-Muguna-1170x600.png",
-        "dateCreated": "March 27, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kennath-Muguna-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa5",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Botswana referee to officiate Gor Berkane\n                                      match",
         "url": "http://gormahiafc.co.ke/botswana-referee-to-officiate-gor-berkane-match/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kipkirui-1170x600.png",
-        "dateCreated": "March 26, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kipkirui-1170x600.png"
     },
     {
-        "title": "Gor Mahia to reward fan for showing\n                                        solidarity with Sala’s family",
-        "dateCreated": "February 11, 2019"
+        "_id": "5ecc2e34808ff83e440deaa6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to reward fan for showing\n                                        solidarity with Sala’s family"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa7",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Legend Sammy, the “Jogoo” of Gor Mahia",
         "url": "http://gormahiafc.co.ke/legend-sammy-the-jogoo-of-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/Gor-Legends-220x113.png",
-        "dateCreated": "September 27, 2018"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/Gor-Legends-220x113.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa8",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Evolution of choir masters at Gor Mahia",
         "url": "http://gormahiafc.co.ke/evolution-of-choir-masters-at-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/gor_choir-220x113.png",
-        "dateCreated": "September 4, 2018"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/gor_choir-220x113.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaa9",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Striker Tuyisenge makes history at Gor\n                                    Mahia",
         "url": "http://gormahiafc.co.ke/striker-tuyisenge-makes-history-at-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Tuyisenge-220x113.png",
-        "dateCreated": "December 19, 2018"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Tuyisenge-220x113.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaaa",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Gor Supersub Branch extends a helping hand\n                                    on Mashujaa Day",
         "url": "http://gormahiafc.co.ke/gor-supersub-branch-extends-a-helping-hand-on-mashujaa-day/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/Supersub-Branch-220x113.png",
-        "dateCreated": "October 20, 2018"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/Supersub-Branch-220x113.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaab",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "K’Ogalo outsmart their arch-rivals in\n                                    Mashemeji Derby",
         "url": "http://gormahiafc.co.ke/kogalo-outsmart-their-arch-rivals-in-mashemeji-derby-2/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/fans_celebrate1-220x113.png",
-        "dateCreated": "August 26, 2018"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/fans_celebrate1-220x113.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaac",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Passion of Gor Mahia fans",
         "url": "http://gormahiafc.co.ke/passion-of-gor-mahia-fans/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/changes-220x113.png",
-        "dateCreated": "June 20, 2018"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/changes-220x113.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaad",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Ex-K’Ogalo Coaches Pay Glowing Tribute To\n                                    ‘Agwambo’",
         "url": "http://gormahiafc.co.ke/ex-kogalo-coaches-pay-glowing-tribute-to-agwambo/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver.jpg",
-        "dateCreated": "2 weeks ago"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver.jpg"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaae",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Gor Mahia await Caf quarters draw",
         "url": "http://gormahiafc.co.ke/gor-mahia-await-caf-quarters-draw/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/tuyisenge_nzoia.png",
-        "dateCreated": "March 20, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/tuyisenge_nzoia.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deaaf",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Nine-man Gor Mahia survive Petro onslaught\n                                    to reach quarter-finals",
         "url": "http://gormahiafc.co.ke/nine-man-gor-mahia-survive-petro-onslaught-to-reach-quarter-finals/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Tuyisenge-1170x600.png",
-        "dateCreated": "March 18, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Tuyisenge-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deab0",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Kenya’s pride Gor storm to CAF CC\n                                    quarters",
         "url": "http://gormahiafc.co.ke/kenyas-pride-gor-mahia-storm-to-caf-confed-quarters/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_celebrate-1-1170x600.png",
-        "dateCreated": "March 18, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_celebrate-1-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deab1",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Shakava: We missed Oliech, Tuyisenge in\n                                    Angola",
         "url": "http://gormahiafc.co.ke/shakava-we-missed-oliech-tuyisenge-in-angola/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech-and-the-team-1170x600.png",
-        "dateCreated": "February 14, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech-and-the-team-1170x600.png"
     },
     {
+        "_id": "5ecc2e34808ff83e440deab2",
+        "club": "5ecc13dd685c419805bfbff8",
         "title": "Oliech: This is why I joined Gor Mahia",
         "url": "http://gormahiafc.co.ke/oliech-this-is-why-i-joined-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png",
-        "dateCreated": "February 4, 2019"
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png"
     }
 ]

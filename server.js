@@ -1,34 +1,30 @@
 const express = require("express");
-const fs = require("fs");
-const cheerio = require("cheerio");
 const app = express();
 const axios = require("axios");
+const mongoose = require("mongoose");
+const dotenv = require("dotenv");
 
-const { createFile, createContent, readHtmlFile } = require("./scraper");
+const { readHtmlFile } = require("./scraper");
 
-// app.get("/scrape", async (req, res) => {
-//   const url = "http://gormahiafc.co.ke";
+dotenv.config();
 
-//   try {
-//     const { data: html } = await axios.get(url);
-//     const $ = cheerio.load(html);
+// connect to mongodb
+mongoose.connect(
+  process.env.DB_CONNECT,
+  { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false },
+  () => console.log("connected to mongodb")
+);
 
-//     // createfile
-//     createFile(html);
+app.get("/scrape", async (req, res) => {
+  //   const url = "http://gormahiafc.co.ke";
 
-//     //create content
-//     createContent($);
+  try {
+    readHtmlFile("gor.html");
+  } catch (error) {
+    res.json(error);
+  }
+});
 
-//     // res.send($);
-//   } catch (error) {
-//     res.json(error);
-//   }
-// });
-
-(function (filepath) {
-  readHtmlFile(filepath);
-})("gor.html");
-
-// app.listen(5000, () => {
-//   console.log("scraper started");
-// });
+app.listen(5000, () => {
+  console.log("scraper started");
+});
