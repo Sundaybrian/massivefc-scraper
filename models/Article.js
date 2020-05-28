@@ -11,12 +11,18 @@ const clubArticleSchema = new mongoose.Schema({
   url: {
     type: String,
   },
-
+  excerpt: {
+    type: String,
+  },
   imageUrl: {
     type: String,
   },
   createdAt: {
     type: String,
+  },
+  scrappedDate: {
+    type: Date,
+    default: Date.now,
   },
 });
 

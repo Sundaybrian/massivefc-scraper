@@ -1,10 +1,10 @@
 const express = require("express");
 const app = express();
-const axios = require("axios");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
+const ClubArticles = require("./models/Article");
 
-const { readHtmlFile } = require("./scraper");
+const { readHtmlFile, createContent, extractArticles } = require("./scraper");
 
 dotenv.config();
 
@@ -15,15 +15,30 @@ mongoose.connect(
   () => console.log("connected to mongodb")
 );
 
-app.get("/scrape", async (req, res) => {
-  //   const url = "http://gormahiafc.co.ke";
+// app.get("/scrape", async (req, res) => {
+//   //   const url = "http://gormahiafc.co.ke";
+
+//   try {
+//     readHtmlFile("gor.html");
+//   } catch (error) {
+//     res.json(error);
+//   }
+// });
+
+(async () => {
+  const firstUrl = "http://gormahiafc.co.ke/category/news/page/32/";
 
   try {
-    readHtmlFile("gor.html");
+    // parse html and extract data
+    const articles = await extractArticles(firstUrl);
+
+    // add to mongodb
+    // const bulkAdd = await ClubArticles.insertMany(articles);
+    console.log("Articles", articles);
   } catch (error) {
-    res.json(error);
+    console.log(error);
   }
-});
+})();
 
 app.listen(5000, () => {
   console.log("scraper started");
