@@ -26,34 +26,30 @@ async function createFile(html) {
 
 // reap data from the html file
 async function extractArticles(url) {
+  let articles = [];
   try {
     // fetch html
     const res = await axios.get(url);
-
-    const $ = cheerio.load(res.data);
+    if (res.status == 404) return articles.slice(0, articles.length);
 
     console.log(`Extracting data from url :${url}`);
-    const articles = await articlesOnPage($);
+    const $ = cheerio.load(res.data);
+    articles = await articlesOnPage($);
 
-    // shoud we end recurssion
-    if (articles.length < 1) {
-      console.log(`Terminating scrapper:${url} `);
-      return articles;
-    } else {
-      // Go to next page
-      // "http://gormahiafc.co.ke/category/news/page/2/".match(/page\/(\d+)/);
+    // Go to next page
+    // "http://gormahiafc.co.ke/category/news/page/2/".match(/page\/(\d+)/);
 
-      const nextpage = parseInt(url.match(/page\/(\d+)/)[1]) + 1;
-      const nextUrl = `${url}/page/${nextpage}/`;
+    const nextpage = parseInt(url.match(/page\/(\d+)/)[1], 10) + 1;
+    const nextUrl = `http://gormahiafc.co.ke/category/news/page/${nextpage}/`;
 
-      console.log(nextpage, "nextpage");
-      console.log(`Extracting next page ${nextUrl}`);
-
-      // recursively access next page
-      return articles.concat(await extractArticles(nextUrl));
-    }
+    console.log(`Extracting next page ${nextUrl}`);
+    // recursively access next page
+    return articles.concat(await extractArticles(nextUrl));
   } catch (error) {
-    console.log(error);
+    console.log(
+      `Error in scrapping terminanting:......................${url} `
+    );
+    return articles.slice(0, articles.length);
   }
 }
 
@@ -85,8 +81,10 @@ async function articlesOnPage($) {
 
 // generate json file
 async function writeFileToJSon(filename, list) {
-  fs.writeFile(filename, JSON.stringify(list, null, 4), (err) => {
-    console.log("File succesfully written");
+  fs.writeFileSync(filename, JSON.stringify(list, null, 4), (err) => {
+    if (err) throw err;
+    console.log("-------------File succesfully written------------");
+    process.exit(0);
   });
 }
 
@@ -99,4 +97,4 @@ async function readHtmlFile(file) {
 
 exports.createFile = createFile;
 exports.extractArticles = extractArticles;
-exports.readHtmlFile = readHtmlFile;
+exports.writeFileToJSon = writeFileToJSon;

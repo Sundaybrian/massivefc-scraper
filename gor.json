@@ -1,161 +1,3218 @@
 [
     {
-        "_id": "5ecc2e34808ff83e440dea9c",
+        "_id": "5ecfe1930406262317716321",
         "club": "5ecc13dd685c419805bfbff8",
         "title": "Gor Mourns!",
         "url": "http://gormahiafc.co.ke/gor-mourns/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver6-780x366.jpg"
+        "excerpt": "Gor Mahia fraternity mouns the death of the club’s long-serving driver, Patrick Osewe. The late Osewe died early on Thursday,…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver6-1170x600.jpg",
+        "createdAt": "3 weeks ago",
+        "scrappedDate": "2020-05-28T16:06:43.596Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440dea9d",
+        "_id": "5ecfe1930406262317716322",
         "club": "5ecc13dd685c419805bfbff8",
         "title": "Match preview: Sony Sugar vs Gor Mahia",
         "url": "http://gormahiafc.co.ke/match-preview-sony-sugar-vs-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Zamalek-1170x600.png"
+        "excerpt": "Gor Mahia will be seeking to extend their lead when they face Sony Sugar in a mid-week KPL match at…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Zamalek-1170x600.png",
+        "createdAt": "April 3, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.599Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440dea9e",
+        "_id": "5ecfe1930406262317716323",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Video: Captain Shakava on RSB BERKANE\n                                      match on Sunday",
+        "title": "Video: Captain Shakava on RSB BERKANE match on Sunday",
         "url": "http://gormahiafc.co.ke/video-captain-shakava-on-rsb-berkane-match-on-sunday/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Haron-Shakava-1170x600.png"
+        "excerpt": "Harun Shakava has urged fans to come out in large numbers and support GOR MAHIA on 7th April as they…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Haron-Shakava-1170x600.png",
+        "createdAt": "April 2, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.600Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440dea9f",
+        "_id": "5ecfe1930406262317716324",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Gor five points ahead after 2:1 win\n                                      against Nzoia Sugar",
+        "title": "Gor five points ahead after 2:1 win against Nzoia Sugar",
         "url": "http://gormahiafc.co.ke/gor-five-points-ahead-after-21-win-against-nzoia-sugar/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/04/Geofrey-Ochieng-1170x600.png"
+        "excerpt": "Two goals from Francis Mustafa and Geoffrey Ochieng’ were all that Gor Mahia needed to register a win against Nzoia…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/04/Geofrey-Ochieng-1170x600.png",
+        "createdAt": "April 1, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.602Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa0",
+        "_id": "5ecfe1930406262317716325",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Kahata, Juma on score-sheet as Gor beat\n                                      K. Sharks",
+        "title": "Kahata, Juma on score-sheet as Gor beat K. Sharks",
         "url": "http://gormahiafc.co.ke/kahata-juma-on-score-sheet-as-gor-beat-k-sharks/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/francis_kahata-1170x600.png"
+        "excerpt": "Gor Mahia moved top of the Kenyan Premier League after coming from behind to beat Kariobangi Sharks 2-1 in a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/francis_kahata-1170x600.png",
+        "createdAt": "March 30, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.603Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa1",
+        "_id": "5ecfe1930406262317716326",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Full house as Gor face K. Sharks in\n                                      Kisumu",
+        "title": "Full house as Gor face K. Sharks in Kisumu",
         "url": "http://gormahiafc.co.ke/full-house-as-gor-face-k-sharks-in-kisumu/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Joash_Onyango-1170x600.png"
+        "excerpt": "Gor Mahia has lined-up a strong team to face Kariobangi Sharks in a KPL match this evening at Kisumu Stadium.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Joash_Onyango-1170x600.png",
+        "createdAt": "March 30, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.604Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa2",
+        "_id": "5ecfe1930406262317716327",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Zico: We are at the lakeside for a good\n                                      outing.",
+        "title": "Zico: We are at the lakeside for a good outing.",
         "url": "http://gormahiafc.co.ke/zico-we-are-at-the-lakeside-for-a-good-outing/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Zedekiah-Otieno-1170x600.png"
+        "excerpt": "We want to give fans of Kisumu some taste of Gor Mahia this season; that was Zedekiah ‘Zico’ Otieno’s words…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Zedekiah-Otieno-1170x600.png",
+        "createdAt": "March 29, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.605Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa3",
+        "_id": "5ecfe1930406262317716328",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Oliech’s brace, Muguna, Kipkirui\n                                      score in Kericho",
+        "title": "Oliech’s brace, Muguna, Kipkirui score in Kericho",
         "url": "http://gormahiafc.co.ke/oliechs-brace-muguna-kipkirui-score-in-kericho/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png"
+        "excerpt": "Striker Denis Oliech scored a brace as Gor Mahia walloped Zoo Kericho 4:0 in a mid-week Match played at Kericho…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png",
+        "createdAt": "March 27, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.606Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa4",
+        "_id": "5ecfe1930406262317716329",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Cercidy, Muguna in the mid as Gor face\n                                      Zoo Kericho",
+        "title": "Cercidy, Muguna in the mid as Gor face Zoo Kericho",
         "url": "http://gormahiafc.co.ke/cercidy-muguna-in-the-mid-as-gor-face-zoo-kericho/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kennath-Muguna-1170x600.png"
+        "excerpt": "Midfielder Kenneth Muguna and Cercidy Okeyo will be on midfield as Gor Mahia face Zoo Kericho in a KPL match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kennath-Muguna-1170x600.png",
+        "createdAt": "March 27, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.607Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa5",
+        "_id": "5ecfe193040626231771632a",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Botswana referee to officiate Gor Berkane\n                                      match",
+        "title": "Botswana referee to officiate Gor Berkane match",
         "url": "http://gormahiafc.co.ke/botswana-referee-to-officiate-gor-berkane-match/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kipkirui-1170x600.png"
+        "excerpt": "Joshua BONDO will be the center referee in a CAF Confederation quarter final between Gor Mahia and Morocco’s side Renaissance…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Kipkirui-1170x600.png",
+        "createdAt": "March 26, 2019",
+        "scrappedDate": "2020-05-28T16:06:43.608Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa6",
+        "_id": "5ecfe196040626231771632b",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Gor Mahia to reward fan for showing\n                                        solidarity with Sala’s family"
+        "title": "Video: Oktay on the Zoo match and his first time visit to Kisumu",
+        "url": "http://gormahiafc.co.ke/video-oktay-on-the-zoo-match-and-his-first-time-visit-to-kisumu/",
+        "excerpt": "Gor Mahia head coach Hassan Oktay talks about the Zoo clash and urges fans to come in big numbers both…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Hassan-Oktay.png",
+        "createdAt": "March 26, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.397Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa7",
+        "_id": "5ecfe196040626231771632c",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Legend Sammy, the “Jogoo” of Gor Mahia",
-        "url": "http://gormahiafc.co.ke/legend-sammy-the-jogoo-of-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/Gor-Legends-220x113.png"
+        "title": "Gor Mahias epic battle",
+        "url": "http://gormahiafc.co.ke/gor-mahias-epic-battle/",
+        "excerpt": "Gor will play Zoo Kericho tomorrow 27th March in Kericho then later travel to Kisumu to play Kariobangi Sharks on…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Team-Line-up.png",
+        "createdAt": "March 26, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.399Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa8",
+        "_id": "5ecfe196040626231771632d",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Evolution of choir masters at Gor Mahia",
-        "url": "http://gormahiafc.co.ke/evolution-of-choir-masters-at-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/gor_choir-220x113.png"
+        "title": "Gor SGM slated for 9th April 2019",
+        "url": "http://gormahiafc.co.ke/gor-sgm-slated-for-9th-april-2019/",
+        "excerpt": "",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose-1170x600.png",
+        "createdAt": "March 26, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.400Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaa9",
+        "_id": "5ecfe196040626231771632e",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Striker Tuyisenge makes history at Gor\n                                    Mahia",
-        "url": "http://gormahiafc.co.ke/striker-tuyisenge-makes-history-at-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Tuyisenge-220x113.png"
+        "title": "Video: Team manager on tight schedule for the team",
+        "url": "http://gormahiafc.co.ke/video-team-manager-on-tight-schedule-for-the-team/",
+        "excerpt": "Team Manager Jolawi Obondo talks about the tight schedule and the teams preparations.",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/jolawi_obondo.png",
+        "createdAt": "March 25, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.401Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaaa",
+        "_id": "5ecfe196040626231771632f",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Gor Supersub Branch extends a helping hand\n                                    on Mashujaa Day",
-        "url": "http://gormahiafc.co.ke/gor-supersub-branch-extends-a-helping-hand-on-mashujaa-day/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/Supersub-Branch-220x113.png"
+        "title": "Video: Gor Assistant coach talk of Wednesday Zoo Clash",
+        "url": "http://gormahiafc.co.ke/video-gor-assistant-talk-of-wednesday-zoo-clash/",
+        "excerpt": "Zedekiah Otieno talks about the teams preparations against Zoo Kericho on Wednesday.",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/Zedekiah-Otieno1-1170x600.png",
+        "createdAt": "March 25, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.402Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaab",
+        "_id": "5ecfe1960406262317716330",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "K’Ogalo outsmart their arch-rivals in\n                                    Mashemeji Derby",
-        "url": "http://gormahiafc.co.ke/kogalo-outsmart-their-arch-rivals-in-mashemeji-derby-2/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/fans_celebrate1-220x113.png"
+        "title": "Gor Mahia to play in Kericho and Kisumu",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-play-in-kericho-and-kisumu/",
+        "excerpt": "After the international break where a number of Gor Mahia players were involved, the team will be resuming league assignments…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/muastafa_zoo.png",
+        "createdAt": "March 25, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.403Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaac",
+        "_id": "5ecfe1960406262317716331",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Passion of Gor Mahia fans",
-        "url": "http://gormahiafc.co.ke/passion-of-gor-mahia-fans/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/changes-220x113.png"
+        "title": "Gor Mahia to go digital on ticketing",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-go-digital-on-ticketing/",
+        "excerpt": "As opposed to the manual and old way of selling match day tickets, Gor Mahia will soon launch the digital…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose_rachier-1170x600.png",
+        "createdAt": "March 25, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.404Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaad",
+        "_id": "5ecfe1960406262317716332",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Ex-K’Ogalo Coaches Pay Glowing Tribute To\n                                    ‘Agwambo’",
-        "url": "http://gormahiafc.co.ke/ex-kogalo-coaches-pay-glowing-tribute-to-agwambo/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2020/05/driver.jpg"
+        "title": "Gor Mahia players on National duties",
+        "url": "http://gormahiafc.co.ke/five-gor-mahia-players-on-national-duties/",
+        "excerpt": "  Five of the club’s players will be in action for their Nations in the last stage of AFCON 2019…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Francis-Kahata.png",
+        "createdAt": "March 23, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.406Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaae",
+        "_id": "5ecfe1960406262317716333",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Gor Mahia await Caf quarters draw",
-        "url": "http://gormahiafc.co.ke/gor-mahia-await-caf-quarters-draw/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/tuyisenge_nzoia.png"
+        "title": "Oktay named best coach of the month",
+        "url": "http://gormahiafc.co.ke/oktay-named-best-coach-of-the-month/",
+        "excerpt": "Head coach Hassan Oktay has been named the Coach of the Month for the month of February. This comes after…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Hassan-Oktay.png",
+        "createdAt": "March 21, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.407Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deaaf",
+        "_id": "5ecfe1960406262317716334",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Nine-man Gor Mahia survive Petro onslaught\n                                    to reach quarter-finals",
-        "url": "http://gormahiafc.co.ke/nine-man-gor-mahia-survive-petro-onslaught-to-reach-quarter-finals/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Tuyisenge-1170x600.png"
+        "title": "Gor Mahia to face RS Berkane in CAF CC quarters",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-rs-berkane-in-caf-cc-quarters/",
+        "excerpt": "Gor Mahia  will battle against RS Berkane of Morocco in CAF Confederations Cup quarter finals following a draw done on…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/gor-vs-berkane.png",
+        "createdAt": "March 20, 2019",
+        "scrappedDate": "2020-05-28T16:06:46.408Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deab0",
+        "_id": "5ecfe1980406262317716335",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Kenya’s pride Gor storm to CAF CC\n                                    quarters",
+        "title": "Gor Mahia face Kenpoly in Shield tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-kenpoly-in-shield-tie/",
+        "excerpt": "Gor Mahia resume domestic cup action with their opening round tie against Kenpoly in the FKF Sportpesa Shield today in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Players-waves-to-fans.png",
+        "createdAt": "March 20, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.971Z"
+    },
+    {
+        "_id": "5ecfe1980406262317716336",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia making good strides in CAF competition",
+        "url": "http://gormahiafc.co.ke/gor-mahia-making-good-strides-in-caf-competition/",
+        "excerpt": "It was all joy and celebration among the Green Army faithfuls as a nine-man Gor Mahia produced a master-class show…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Tuyisengerun.png",
+        "createdAt": "March 18, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.972Z"
+    },
+    {
+        "_id": "5ecfe1980406262317716337",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kenya’s pride Gor storm to CAF CC quarters",
         "url": "http://gormahiafc.co.ke/kenyas-pride-gor-mahia-storm-to-caf-confed-quarters/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_celebrate-1-1170x600.png"
+        "excerpt": "Kenya’s football pride Gor Mahia wrote yet another beautiful chapter in their decorated history under the dark skies of Nairobi…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_celebrate-1-1170x600.png",
+        "createdAt": "March 18, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.980Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deab1",
+        "_id": "5ecfe1980406262317716338",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Shakava: We missed Oliech, Tuyisenge in\n                                    Angola",
-        "url": "http://gormahiafc.co.ke/shakava-we-missed-oliech-tuyisenge-in-angola/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech-and-the-team-1170x600.png"
+        "title": "History Made! Gor in CAF CC Quaters",
+        "url": "http://gormahiafc.co.ke/history-made-gor-in-caf-quaters/",
+        "excerpt": "It is history as nine-man Gor Mahia demolish Petro de Luanda. More news to follow!",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Tuyisenge-Goal.png",
+        "createdAt": "March 17, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.981Z"
     },
     {
-        "_id": "5ecc2e34808ff83e440deab2",
+        "_id": "5ecfe1980406262317716339",
         "club": "5ecc13dd685c419805bfbff8",
-        "title": "Oliech: This is why I joined Gor Mahia",
-        "url": "http://gormahiafc.co.ke/oliech-this-is-why-i-joined-gor-mahia/",
-        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Deniss-Oliech-6-1170x600.png"
+        "title": "History beckons for Gor Mahia",
+        "url": "http://gormahiafc.co.ke/history-beckons-for-gor-mahia/",
+        "excerpt": "Gor Mahia are on the brink of making CAF Confederations Cup history as they face Angola’s Petro Athletico tomorrow (Sunday) at…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Team-Training-Prayer.png",
+        "createdAt": "March 16, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.983Z"
+    },
+    {
+        "_id": "5ecfe198040626231771633a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor beat Homeboys to move second on KPL Log",
+        "url": "http://gormahiafc.co.ke/gor-beat-homeboys-to-move-second-on-kpl-log/",
+        "excerpt": "Gor Mahia moved to second position of KPL log after staging a stunning comeback against Kakamega Homeboys in a mid-week…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/Haron-Shakava.png",
+        "createdAt": "March 14, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.984Z"
+    },
+    {
+        "_id": "5ecfe198040626231771633b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay: we are ready for Zamalek",
+        "url": "http://gormahiafc.co.ke/oktay-we-are-ready-for-zamalek/",
+        "excerpt": "Gor Mahia head coach Hassan Oktay has confirmed that they will play Zamalek on Sunday at the Borg Al Arab…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Hassan-Oktay-1.png",
+        "createdAt": "March 8, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.985Z"
+    },
+    {
+        "_id": "5ecfe198040626231771633c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Team upbeat ahead of Zamalek clash",
+        "url": "http://gormahiafc.co.ke/team-upbeat-ahead-of-zamalek-clash/",
+        "excerpt": "Gor Mahia FC team arrived Tueday morning in Cairo, Egypt to a warm reception by host by host Zamalek SC…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/03/teaining.png",
+        "createdAt": "March 6, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.986Z"
+    },
+    {
+        "_id": "5ecfe198040626231771633d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "CAF CC Result : Hussein Dey 1:0 Gor Mahia FC",
+        "url": "http://gormahiafc.co.ke/caf-cc-result-hussein-dey-10-gor-mahia-fc/",
+        "excerpt": "Gor Mahia put up a brave fight against host NA Hussein Dey in a CAF Confederations Cup game played at…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/The-team.png",
+        "createdAt": "March 3, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.987Z"
+    },
+    {
+        "_id": "5ecfe198040626231771633e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kipkirui’s header sinks Tusker in Machakos",
+        "url": "http://gormahiafc.co.ke/kipkiruis-header-sinks-tusker-in-machakos-2/",
+        "excerpt": "Nicholas Kipkirui’s deft second half header was all Gor Mahia needed to sink Tusker and bag the all-important three points…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Kipkirui-1170x600.png",
+        "createdAt": "February 27, 2019",
+        "scrappedDate": "2020-05-28T16:06:48.988Z"
+    },
+    {
+        "_id": "5ecfe19b040626231771633f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia brace for Tusker test",
+        "url": "http://gormahiafc.co.ke/gor-mahia-brace-for-tusker-test/",
+        "excerpt": "Gor Mahia host Tusker FC in their league catch up match today at Machakos from 4pm. Both teams will be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Kahata-Francis.png",
+        "createdAt": "February 27, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.577Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716340",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kahata, Joash out of Tusker Clash",
+        "url": "http://gormahiafc.co.ke/kahata-joash-out-of-tusker-clash/",
+        "excerpt": "Gor Mahia will miss the services of Joash Onyango and Francis Kahata in a midweek match against at Kenyatta Stadium…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Francis-Kahata.png",
+        "createdAt": "February 26, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.580Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716341",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kahata, Tuyisenge punish Hussein Dey",
+        "url": "http://gormahiafc.co.ke/kahata-tuyisenge-punish-hussein-dey/",
+        "excerpt": "The impressive Francis Kahata and talismanic striker Jacques Tuyisenge scored a goal each late in the second half to punish…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Kahata-goal-celebration.png",
+        "createdAt": "February 24, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.582Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716342",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia name squad to face Algerians",
+        "url": "http://gormahiafc.co.ke/gor-mahia-name-squad-to-face-algerians/",
+        "excerpt": "Gor Mahia head coach Hassan Oktay has named his starting team to take on Algerian side Hussein Dey in CAF…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/The-team.png",
+        "createdAt": "February 24, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.584Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716343",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia vs Hussein Dey ticketing info.",
+        "url": "http://gormahiafc.co.ke/gor-mahia-vs-hussein-dey-ticketing-info/",
+        "excerpt": "Kick-off time : 16:00 hrs Venue: Moi International Sports Center – Kasarani Terraces ticket : Kshs. 200 VIP tickets :…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Hassan-Oktay-1.png",
+        "createdAt": "February 24, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.586Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716344",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia host Algerians in CAF crunch match",
+        "url": "http://gormahiafc.co.ke/gor-mahia-host-algerians-in-caf-crunch-match-2/",
+        "excerpt": "Gor Mahia will take on Algerian side NA Hussein Dey this Sunday at MISC – Kasarani in a match that…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Kahata-Wendo-Joash-1170x600.png",
+        "createdAt": "February 21, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.587Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716345",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia frustrated by Western Stima",
+        "url": "http://gormahiafc.co.ke/gor-mahia-frustrated-by-western-stima/",
+        "excerpt": "It was a case of missed chances as Gor Mahia missed the opportunity to go top of the table after…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Kipkirui-header.png",
+        "createdAt": "February 20, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.588Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716346",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia target maximum points against Stima",
+        "url": "http://gormahiafc.co.ke/gor-mahia-target-maximum-points-against-stima/",
+        "excerpt": "Gor Mahia continues their league programme today with a match against Western Stima at 4pm at Kasarani, Nairobi. Hassan Oktay’s…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Oliech-Teamate-1170x600.png",
+        "createdAt": "February 20, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.590Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716347",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia pull a tough one over Sofapaka",
+        "url": "http://gormahiafc.co.ke/gor-mahia-pull-a-tough-one-over-sofapaka/",
+        "excerpt": "Gor Mahia moved to third place on the log after beating Sofapaka 1-0 in a tough encounter at Afraha stadium…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Onyango-Goal-1.png",
+        "createdAt": "February 17, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.591Z"
+    },
+    {
+        "_id": "5ecfe19b0406262317716348",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia name squad to face Sofapaka",
+        "url": "http://gormahiafc.co.ke/gor-mahia-name-squad-to-face-sofapaka/",
+        "excerpt": "Gor Mahia head coach Hassan Oktay has named his starting team to take on Sofapaka today in a league match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Line_up.png",
+        "createdAt": "February 17, 2019",
+        "scrappedDate": "2020-05-28T16:06:51.592Z"
+    },
+    {
+        "_id": "5ecfe19e0406262317716349",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia take on Sofapaka in league tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-take-on-sofapaka-in-league-tie/",
+        "excerpt": "Gor Mahia returns to local football action when they face off with in-form Sofapaka on Sunday at Afraha Stadium (Nakuru)…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/move1.png",
+        "createdAt": "February 15, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.572Z"
+    },
+    {
+        "_id": "5ecfe19e040626231771634a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Video Highlights : Petro de Luanda v Gor Mahia",
+        "url": "http://gormahiafc.co.ke/video-highlights-petro-de-luanda-v-gor-mahia/",
+        "excerpt": "Watch video highlights of Petro de Luanda v Gor Mahia in a CAF Confederation Cup match played at Estádio 11 de Novembro…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Kipkirui-1170x600.png",
+        "createdAt": "February 13, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.576Z"
+    },
+    {
+        "_id": "5ecfe19e040626231771634b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Striker Oliech to miss Gor Mahia’s trip to Angola",
+        "url": "http://gormahiafc.co.ke/striker-oliech-to-miss-gor-mahias-trip-to-angola/",
+        "excerpt": "Gor Mahia striker Dennis Oliech will not be able to travel with the team to Angola for the CAF match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Dennis-and-Momanyi.png",
+        "createdAt": "February 11, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.579Z"
+    },
+    {
+        "_id": "5ecfe19e040626231771634c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s contigent to Angola",
+        "url": "http://gormahiafc.co.ke/gor-mahias-contigent-to-angola/",
+        "excerpt": "A contingent of 18 players, five technical staff, three club officials and one Federation representative will be hitting the run-way…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Team-Praying-1170x600.png",
+        "createdAt": "February 10, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.580Z"
+    },
+    {
+        "_id": "5ecfe19e040626231771634d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia v AFC Leopards video highlights",
+        "url": "http://gormahiafc.co.ke/gor-mahia-v-afc-leopards-video-highlights/",
+        "excerpt": "Watch video highlights of Gor Mahia vs AFC leopards in “Mashemeji” derby played at Moi International Sports Center – Kasarani…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Philemon-Otieno.png",
+        "createdAt": "February 9, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.582Z"
+    },
+    {
+        "_id": "5ecfe19e040626231771634e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia name squad to face Leopards",
+        "url": "http://gormahiafc.co.ke/gor-mahia-name-squad-to-face-leopards/",
+        "excerpt": "Gor Mahia head coach Hassan Oktay has named his starting eleven for the derby match against AFC Leopards today at…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Team-Line-up.png",
+        "createdAt": "February 9, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.583Z"
+    },
+    {
+        "_id": "5ecfe19e040626231771634f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia host Leopards in crunch derby",
+        "url": "http://gormahiafc.co.ke/gor-mahia-leopards-in-crunch-derby/",
+        "excerpt": "Gor Mahia will take on arch-rivals AFC Leopards on Saturday (Feb 9th) in the Mashemeji derby at Kasarani from 3pm.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Zamalek-1170x600.png",
+        "createdAt": "February 8, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.584Z"
+    },
+    {
+        "_id": "5ecfe19e0406262317716350",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia receive government’s support",
+        "url": "http://gormahiafc.co.ke/gor-mahia-receive-governments-support/",
+        "excerpt": "Through the Ministry of Sports, Gor Mahia have today received a huge support from the government for their trip to…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/Tuyisenge-Goal5-1170x600.png",
+        "createdAt": "February 7, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.585Z"
+    },
+    {
+        "_id": "5ecfe19e0406262317716351",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay releases his line-up to face Vihiga United",
+        "url": "http://gormahiafc.co.ke/oktay-releases-his-line-up-to-face-vihiga-united/",
+        "excerpt": "Gor Mahia head coach Hassan Oktay has named his line-up to face Vihiga United this afternoon in a league tie…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/team-1170x600.png",
+        "createdAt": "February 6, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.586Z"
+    },
+    {
+        "_id": "5ecfe19e0406262317716352",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "BIG WIN! Gor Mahia show prowess over Zamalek",
+        "url": "http://gormahiafc.co.ke/big-win-gor-mahia-show-prowess-over-zamalek/",
+        "excerpt": "Gor Mahia beat Zamalek 4-2 in Caf Confederation Cup tie at Kasarani stadium in Nairobi. A brace from striker Jacques…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/02/The-Tuyisenge-great-goal-1170x600.jpg",
+        "createdAt": "February 3, 2019",
+        "scrappedDate": "2020-05-28T16:06:54.587Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716353",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay names his squad to face Zamalek",
+        "url": "http://gormahiafc.co.ke/oktay-names-his-squad-to-face-zamalek/",
+        "excerpt": "Gor Mahia head coach, Hassan Oktay has released his charges to square it out with Zamalek in CAF tie this…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/9-1170x600.png",
+        "createdAt": "February 3, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.628Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716354",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Match tickets to go on sale on Sunday",
+        "url": "http://gormahiafc.co.ke/match-tickets-to-go-on-sale-on-sunday/",
+        "excerpt": "The match tickets for the CAF Confederation Cup tie between Gor Mahia and Zamalek will go on sale on the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/sally-1170x600.png",
+        "createdAt": "February 2, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.632Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716355",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Zamalek to land in Nairobi on Friday",
+        "url": "http://gormahiafc.co.ke/zamalek-to-land-in-nairobi-on-friday/",
+        "excerpt": "Gor Mahia opponents in the first round of CAF Confederation Cup, Zamalek of Egypt will land on Friday. The Egyptians…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Zamalek1-1170x600.png",
+        "createdAt": "January 31, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.635Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716356",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to host SoNy in Nakuru",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-host-sony-in-nakuru/",
+        "excerpt": "After going down by a solitary goal to KCB over the weekend, Gor Mahia will be seeking to get back…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Team-Training1-1170x600.png",
+        "createdAt": "January 29, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.636Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716357",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia apologizes to Machakos County government",
+        "url": "http://gormahiafc.co.ke/gor-mahia-apologizes-to-machakos-county-government/",
+        "excerpt": "To our beloved fans and supporters of football in this nation, Gor Mahia Football Club is extremely saddened by the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/01/gov_mutua_sally_n_rachier-390x220.png",
+        "createdAt": "January 29, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.637Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716358",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Ivorian striker Guikan ditches Gor Mahia",
+        "url": "http://gormahiafc.co.ke/ivorian-striker-guikan-ditches-gor-mahia/",
+        "excerpt": "Ivorian striker Ephrem Guikan has parted ways with Gor Mahia on a mutual agreement with the club. The developments were…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/guikan_goal.png",
+        "createdAt": "January 28, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.638Z"
+    },
+    {
+        "_id": "5ecfe1a10406262317716359",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia take on Bankers in league clash",
+        "url": "http://gormahiafc.co.ke/gor-mahia-take-on-bankers-in-league-clash/",
+        "excerpt": "After a successful outing in Cameroon which saw Gor Mahia qualify to the CAF Confederation Cup group stage, K’Ogalo resume…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Oliech-Teamate-1170x600.png",
+        "createdAt": "January 24, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.639Z"
+    },
+    {
+        "_id": "5ecfe1a1040626231771635a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia knocked out of SportPesa Cup",
+        "url": "http://gormahiafc.co.ke/gor-mahia-knocked-out-of-sportpesa-cup/",
+        "excerpt": "Gor Mahia have been knocked out of SportPesa Cup by Tanzanian side Mbao FC on post-match penalties. The match ended…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech-Penalty-1170x600.png",
+        "createdAt": "January 23, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.640Z"
+    },
+    {
+        "_id": "5ecfe1a1040626231771635b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oliech starts as Gor Mahia face Mbao FC",
+        "url": "http://gormahiafc.co.ke/oliech-starts-as-gor-mahia-face-mbao-fc/",
+        "excerpt": "Striker Dennis Oliech has been handed a starting role as Gor Mahia take on Mbao FC today in SportPesa Cup…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech7-1170x600.png",
+        "createdAt": "January 23, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.641Z"
+    },
+    {
+        "_id": "5ecfe1a1040626231771635c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia take on Mbao for the first time",
+        "url": "http://gormahiafc.co.ke/gor-mahia-take-on-mbao-for-the-first-time/",
+        "excerpt": "As the third edition of the SportPesa Cup rolls down in Tanzania, defending champions Gor Mahia will be taking on…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Team-Praying-1170x600.png",
+        "createdAt": "January 23, 2019",
+        "scrappedDate": "2020-05-28T16:06:57.642Z"
+    },
+    {
+        "_id": "5ecfe1a4040626231771635d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Rich history as Gor Mahia gear up for CAF Competition",
+        "url": "http://gormahiafc.co.ke/rich-history-as-gor-mahia-gear-up-for-caf-competition/",
+        "excerpt": "With the excitement of qualifying for the CAF Confederation Cup group stage having subsided and draw done, Gor Mahia website…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech-and-the-team-1170x600.png",
+        "createdAt": "January 22, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.613Z"
+    },
+    {
+        "_id": "5ecfe1a4040626231771635e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia make history again, win Sh27 million",
+        "url": "http://gormahiafc.co.ke/gor-mahia-make-history-again-win-sh27-million/",
+        "excerpt": "Gor Mahia have made history again becoming the only team in Kenya to qualify to CAF Confederation Cup group stage…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/8-1170x600.png",
+        "createdAt": "January 20, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.617Z"
+    },
+    {
+        "_id": "5ecfe1a4040626231771635f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay maintains Gor’s starting team against Cameroonians",
+        "url": "http://gormahiafc.co.ke/oktay-maintains-gors-starting-team-against-cameroonians/",
+        "excerpt": "Head coach Hassan Okay has maintained his squad that played New Stars de Douala last Sunday in first leg of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/9-1170x600.png",
+        "createdAt": "January 20, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.619Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716360",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s traveling party to Cameroon",
+        "url": "http://gormahiafc.co.ke/gor-mahias-traveling-party-to-cameroon/",
+        "excerpt": "  Gor Mahia hit the run-way to Cameroon today in the morning (8am) for the return leg of the CAF…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Mahia-team-1170x600.png",
+        "createdAt": "January 18, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.620Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716361",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia wallop Mount Kenya in league tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-wallop-mount-kenya-in-league-tie/",
+        "excerpt": "A hat-trick from Ugandan Erisa Ssekisambu and another goal from striker Dennis Oliech helped Gor Mahia beat Mount Kenya United…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Erisa-Ssekisambu-1170x600.png",
+        "createdAt": "January 16, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.620Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716362",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Message of condolence to fallen soldier",
+        "url": "http://gormahiafc.co.ke/message-of-confidence-to-fallen-soldier/",
+        "excerpt": "It is with deep sense of loss, sorrow and shock that have learnt of the death of our fan, friend…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/James-Oduor-Cobra-1170x600.png",
+        "createdAt": "January 16, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.621Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716363",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia face Mount Kenya at Kasarani",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-mount-kenya-at-kasarani/",
+        "excerpt": "Gor Mahia takes on Mount Kenya today in a catch-up match today at Kasarani as from 4pm. A win for…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Gor-Mahia-team-1170x600.png",
+        "createdAt": "January 16, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.622Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716364",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "CAF axe lands on Gor Mahia as club is fined, players banned",
+        "url": "http://gormahiafc.co.ke/caf-axe-lands-on-gor-mahia-as-club-is-fined-players-banned/",
+        "excerpt": "Gor Mahia have been dealt a blow following a decision by CAF disciplinary board to ban two players and a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Kahata-Wendo-Joash-1170x600.png",
+        "createdAt": "January 15, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.623Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716365",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia thank Raila and Turkish ambassador",
+        "url": "http://gormahiafc.co.ke/gor-mahia-thank-raila-and-turkish-ambassador/",
+        "excerpt": "After squeezing a 2-1 win over New Stars de Douala of Cameroon in CAF Confederation knock out match yesterday at…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Raila-Odinga-1170x600.png",
+        "createdAt": "January 14, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.624Z"
+    },
+    {
+        "_id": "5ecfe1a40406262317716366",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia beat New Stars of Cameroon in CAF tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-beat-new-stars-of-cameroon-in-caf-tie/",
+        "excerpt": "Gor Mahia starting campaign to CAF Confederation Cup group stage with a 2-1 win over New Stars de Douala of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Laurence-1170x600.png",
+        "createdAt": "January 13, 2019",
+        "scrappedDate": "2020-05-28T16:07:00.625Z"
+    },
+    {
+        "_id": "5ecfe1a70406262317716367",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay names his squad for CAF tie against New Star de Doula",
+        "url": "http://gormahiafc.co.ke/oktay-names-his-squad-for-caf-tie-against-new-star-de-doula/",
+        "excerpt": "Head coach Hassan Oktay has released his lineup for CAF match this afternoon at Kasarani from 4pm. Joachim Oluoch and…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/9-1170x600.png",
+        "createdAt": "January 13, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.289Z"
+    },
+    {
+        "_id": "5ecfe1a70406262317716368",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Another big chance for Gor Mahia in CAF competition",
+        "url": "http://gormahiafc.co.ke/another-big-chance-for-gor-mahia-in-caf-competition/",
+        "excerpt": "Gor Mahia will host Cameroonian side New Star Doula in a CAF Confederation Cup playoffs – first leg tie in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/team_training-1170x600.png",
+        "createdAt": "January 11, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.293Z"
+    },
+    {
+        "_id": "5ecfe1a70406262317716369",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "CAF suspends key Gor Mahia players",
+        "url": "http://gormahiafc.co.ke/caf-suspends-key-gor-mahia-players/",
+        "excerpt": "Gor Mahia have been dealt a blow as CAF suspends two key players indefinitely until their case is discussed in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Haron-Shakava-1170x600.png",
+        "createdAt": "January 10, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.295Z"
+    },
+    {
+        "_id": "5ecfe1a7040626231771636a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oliech hits winner as Gor Mahia beat Rangers",
+        "url": "http://gormahiafc.co.ke/oliech-hits-winner-as-gor-mahia-beats-rangers/",
+        "excerpt": "Striker Dennis Oliech opened his goals account at Gor Mahia as he helped the team beat Posta Rangers 2-1 in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dennis-Oliech-1-1170x600.png",
+        "createdAt": "January 9, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.296Z"
+    },
+    {
+        "_id": "5ecfe1a7040626231771636b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay names his lineup against Rangers",
+        "url": "http://gormahiafc.co.ke/oktay-names-his-lineup-against-rangers/",
+        "excerpt": "Head Coach Hassan Oktay has handed striker Dennis Oliech a starting role in today’s league match against Posta Rangers –…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/the-wakulima-1170x600.png",
+        "createdAt": "January 9, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.297Z"
+    },
+    {
+        "_id": "5ecfe1a7040626231771636c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia take on Rangers in mid-week showdown",
+        "url": "http://gormahiafc.co.ke/gor-mahia-take-on-rangers-in-mid-week-showdown/",
+        "excerpt": "After being held to a one-all draw by league leaders Mathare United, Gor Mahia will be looking forward to get…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/gor_celebrating.png",
+        "createdAt": "January 9, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.298Z"
+    },
+    {
+        "_id": "5ecfe1a7040626231771636d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to host Rangers in Nairobi",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-host-rangers-in-nairobi/",
+        "excerpt": "Gor  Mahia will now host Posta Rangers in a league match in Nairobi (Kasarani) not as earlier scheduled to be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/sally-1170x600.png",
+        "createdAt": "January 7, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.299Z"
+    },
+    {
+        "_id": "5ecfe1a7040626231771636e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia held to a draw by Mathare United",
+        "url": "http://gormahiafc.co.ke/gor-mathare-match-ends-in-1-1-draw/",
+        "excerpt": "Gor Mahia were held to a one all draw by host Mathare United in a league match played on Sunday…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Dannis-Oliech-1170x600.png",
+        "createdAt": "January 6, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.301Z"
+    },
+    {
+        "_id": "5ecfe1a7040626231771636f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay names his charges against Mathare United",
+        "url": "http://gormahiafc.co.ke/oktay-names-his-charges-against-mathare-united/",
+        "excerpt": "Head coach Hassan has released his squad for match day to face off with Mathare United this afternoon at Kasarani.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/lobi_lineup-1170x600.png",
+        "createdAt": "January 6, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.302Z"
+    },
+    {
+        "_id": "5ecfe1a70406262317716370",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia face Mathare United in crunch tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-mathare-united-in-crunch-tie/",
+        "excerpt": "After a successful mid-week clash against Chemelil, Gor Mahia shift focus to another league match – this time against Mathare…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/celebration2-1170x600.png",
+        "createdAt": "January 5, 2019",
+        "scrappedDate": "2020-05-28T16:07:03.303Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716371",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia sign striker Dennis Oliech",
+        "url": "http://gormahiafc.co.ke/gor-mahia-sign-striker-dennis-oliech/",
+        "excerpt": "Gor Mahia have today signed striker Dennis Oliech. The striker penned down a deal that will see him being part…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2019/01/Danis-Oliech.png",
+        "createdAt": "January 2, 2019",
+        "scrappedDate": "2020-05-28T16:07:06.190Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716372",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia start New Year against Chemelil Sugar",
+        "url": "http://gormahiafc.co.ke/gor-mahia-start-new-year-against-chemelil-sugar/",
+        "excerpt": "Gor Mahia begin the New Year by hosting Chemelil Sugar today in Machakos as from 4pm. A win will get…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Eliud_Lokuwam2-1170x600.png",
+        "createdAt": "January 2, 2019",
+        "scrappedDate": "2020-05-28T16:07:06.194Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716373",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to face Cameroonians in CAF tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-cameroonians-in-caf-tie/",
+        "excerpt": "Gor Mahia will face Cameroonian side New Star de Douala in the knock out stage of CAF Confederation Cup. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/squad_lobi-1170x600.png",
+        "createdAt": "December 28, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.195Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716374",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "CAF Champions League hopes fade as Gor Mahia lose to Lobi Stars",
+        "url": "http://gormahiafc.co.ke/caf-cl-hopes-fade-as-gor-lose-to-lobi-stars/",
+        "excerpt": "Gor Mahia hopes of proceeding to CAF Champions League group stage were halted after a 2-0 loss to Lobi Stars…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/tuyisenge_lobi_Stars-1170x600.png",
+        "createdAt": "December 22, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.196Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716375",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia keen to make history in Nigeria",
+        "url": "http://gormahiafc.co.ke/gor-mahia-keen-to-make-history-in-nigeria/",
+        "excerpt": "Gor Mahia will take on Nigeria’s Lobi Stars this Saturday (tomorrow) in what is viewed as the biggest game of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Samuel-Onyango-2-1170x600.png",
+        "createdAt": "December 21, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.197Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716376",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia camp in Ghana for two days",
+        "url": "http://gormahiafc.co.ke/gor-mahia-camp-in-ghana-for-two-days/",
+        "excerpt": "Gor Mahia have camped in Accra, Ghana and will be there for two days before heading to Nigeria on Friday.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/gor_lobi-stars-1170x600.png",
+        "createdAt": "December 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.198Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716377",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia off to Nigeria",
+        "url": "http://gormahiafc.co.ke/__trashed/",
+        "excerpt": "TRAVELLING PARTY Players: Gor Mahia are off to Nigeria to play Lobi Stars in the return leg of CAF Champions…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/lobi_lineup-1170x600.png",
+        "createdAt": "December 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.199Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716378",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia close to group stage after beating Lobi Stars of Nigeria",
+        "url": "http://gormahiafc.co.ke/gor-mahia-close-to-group-stage-after-beating-lobi-stars-of-nigeria/",
+        "excerpt": "Three goals in the opening half were all Gor Mahia needed to down Lobi Stars of Nigeria in the CAF…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Samuel-Onyango-1-960x600.png",
+        "createdAt": "December 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.200Z"
+    },
+    {
+        "_id": "5ecfe1aa0406262317716379",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kahata starts as Gor’s squad to face Lobi Stars is named",
+        "url": "http://gormahiafc.co.ke/kahata-starts-as-gors-squad-to-face-lobi-stars-is-named/",
+        "excerpt": "Head coach Hassan Oktay drafts Francis Kahata in his lineup to face Lobi Stars in CAF Champions League group stage…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/kahata_francis-1170x600.png",
+        "createdAt": "December 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.200Z"
+    },
+    {
+        "_id": "5ecfe1aa040626231771637a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia are two matches away from Sh54 million",
+        "url": "http://gormahiafc.co.ke/gor-mahia-are-two-matches-away-from/",
+        "excerpt": "In a match that will kick off at 4pm at Kasarani stadium on Sunday, Gor Mahia will face Nigerian side…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/squad_lobi-1170x600.png",
+        "createdAt": "December 13, 2018",
+        "scrappedDate": "2020-05-28T16:07:06.201Z"
+    },
+    {
+        "_id": "5ecfe1ad040626231771637b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia office offers Christmas gift to fans",
+        "url": "http://gormahiafc.co.ke/gor-mahia-office-offers-christmas-gift/",
+        "excerpt": "As the year comes to a close, we – the management of Gor Mahia wish to sincerely thank each and…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/gor_choir-1170x600.png",
+        "createdAt": "December 12, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.070Z"
+    },
+    {
+        "_id": "5ecfe1ad040626231771637c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Guikan nets a brace as Gor Mahia hammer Zoo",
+        "url": "http://gormahiafc.co.ke/guikan-nets-a-brace-as-gor-mahia-hammer-zoo/",
+        "excerpt": "Striker Ephrem Guikan was the main man as Gor Mahia walloped Zoo Kericho 4-0 in a league match at Kasarani…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Ephrem-Guikan1-1170x600.png",
+        "createdAt": "December 12, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.085Z"
+    },
+    {
+        "_id": "5ecfe1ad040626231771637d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oktay names squad to face Zoo FC",
+        "url": "http://gormahiafc.co.ke/oktay-names-squad-to-face-zoo-fc/",
+        "excerpt": "Head coach Hassan Oktay names his charges to take on Zoo FC in the second league match of the season.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/squad-1170x600.png",
+        "createdAt": "December 12, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.086Z"
+    },
+    {
+        "_id": "5ecfe1ad040626231771637e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia seeking redemption",
+        "url": "http://gormahiafc.co.ke/gor-mahia-seeking-redemption/",
+        "excerpt": "Gor Mahia will be seeking to get their league season back on track when they face Kericho’s Zoo FC in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/kahata_wendo_joash-1170x600.png",
+        "createdAt": "December 11, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.087Z"
+    },
+    {
+        "_id": "5ecfe1ad040626231771637f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia appoint new coach",
+        "url": "http://gormahiafc.co.ke/gor-mahia-appoints-new-coach/",
+        "excerpt": "Gor Mahia have today appointed coach Hassan Oktay to be the head coach on a two year deal. The news…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/coach_signs-960x600.png",
+        "createdAt": "December 10, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.088Z"
+    },
+    {
+        "_id": "5ecfe1ad0406262317716380",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia name released players",
+        "url": "http://gormahiafc.co.ke/gor-mahia-name-released-players/",
+        "excerpt": "Ahead of the new season which is kicking off this weekend, Gor Mahia have announced players who have been released…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/ade_move-1170x600.png",
+        "createdAt": "December 8, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.089Z"
+    },
+    {
+        "_id": "5ecfe1ad0406262317716381",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "High morale at Gor Mahia ahead of Coast trip",
+        "url": "http://gormahiafc.co.ke/high-morale-at-gor-mahia-ahead-of-coast-trip/",
+        "excerpt": "Playing their first league match for the 2018/2019 season down in Mombasa, Gor Mahia are motivated after their qualification to…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/17-1170x600.png",
+        "createdAt": "December 7, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.090Z"
+    },
+    {
+        "_id": "5ecfe1ad0406262317716382",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia begin quest for 18th league title",
+        "url": "http://gormahiafc.co.ke/gor-mahia-begins-quest-for-18th-league-title/",
+        "excerpt": "Gor begin quest for 18th league title Gor Mahia will begin their quest for 18th league title this weekend (Saturday)…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/tuyi_marked-1170x600.png",
+        "createdAt": "December 7, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.091Z"
+    },
+    {
+        "_id": "5ecfe1ad0406262317716383",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia win in Malawi, sail to next stage of CAF competition",
+        "url": "http://gormahiafc.co.ke/gor-mahia-win-in-malawi-sail-to-next-stage-of-caf-competition/",
+        "excerpt": "Boniface Oluoch’s heroics ensured that Gor Mahia progressed to the next round of the CAF Champions League by eliminating Malawi’s…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/mieno_nyasa-1170x600.png",
+        "createdAt": "December 5, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.092Z"
+    },
+    {
+        "_id": "5ecfe1ad0406262317716384",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Live: NBB vs GOR MAHIA",
+        "url": "http://gormahiafc.co.ke/live-nbb-vs-gor-mahia/",
+        "excerpt": "Watch Gor Mahia vs NBB match live here.",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/gor_Nyasa-1170x600.png",
+        "createdAt": "December 5, 2018",
+        "scrappedDate": "2020-05-28T16:07:09.093Z"
+    },
+    {
+        "_id": "5ecfe1af0406262317716385",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oluoch starts as Gor’s team to play in Malawi is named",
+        "url": "http://gormahiafc.co.ke/oluoch-starts-as-gors-team-to-play-in-malawi-is-named/",
+        "excerpt": "Goalkeeper Boniface Oluoch has been handed a starting role today against Nyasa Big Bullets of Malawi in the return leg…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/team_squad1-1170x600.png",
+        "createdAt": "December 5, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.742Z"
+    },
+    {
+        "_id": "5ecfe1af0406262317716386",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Win or draw will make it for Gor Mahia in Malawi",
+        "url": "http://gormahiafc.co.ke/win-or-draw-will-make-it-for-gor-mahia-in-malawi/",
+        "excerpt": "Gor Mahia will today (3.30pm Kenyan time) take on Malawi’s Nyasa Bullets in the second leg of their CAF Champions…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/team_gor-1170x600.png",
+        "createdAt": "December 5, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.745Z"
+    },
+    {
+        "_id": "5ecfe1af0406262317716387",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to travel in two batches to Malawi",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-travel-in-two-batches-to-malawi/",
+        "excerpt": "Gor Mahia will be hitting the run-way to Malawi tomorrow (Monday, 3rd December) for the return leg of the CAF…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/celebration2-1170x600.png",
+        "createdAt": "December 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.748Z"
+    },
+    {
+        "_id": "5ecfe1af0406262317716388",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia go down in Super Cup match",
+        "url": "http://gormahiafc.co.ke/gor-mahia-go-down-in-super-cup-match/",
+        "excerpt": "Gor Mahia went down 1- 0 to Kariobangi Sharks in Super Cup match at Kasarani stadium today. A goal scored…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/12/Kahata-Francis-1170x600.png",
+        "createdAt": "December 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.751Z"
+    },
+    {
+        "_id": "5ecfe1af0406262317716389",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia name strong squad to face Sharks in Super Cup tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-name-strong-squad-to-face-sharks-in-super-cup-tie/",
+        "excerpt": "Gor Mahia coach Zedekiah ‘Zico’ Otieno has named a strong squad to take on Kariobangi Sharks in today’s Super Cup…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/fransis_kahata-1170x600.png",
+        "createdAt": "December 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.751Z"
+    },
+    {
+        "_id": "5ecfe1af040626231771638a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kahata back to squad as Gor Mahia face Sharks",
+        "url": "http://gormahiafc.co.ke/kahata-back-to-the-squad-as-gor-mahia-face-sharks/",
+        "excerpt": "After being excluded in the mid-week CAF group stage qualifier match against Malawian side Nyasa Big Bullets, Gor Mahia midfielder…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/92CA3AA1-9197-47BA-A868-4CF5BF90079C-1170x600.jpeg",
+        "createdAt": "December 1, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.752Z"
+    },
+    {
+        "_id": "5ecfe1af040626231771638b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Defender Karim part ways with Gor Mahia",
+        "url": "http://gormahiafc.co.ke/defender-karim-part-ways-with-gor-mahia/",
+        "excerpt": "Burundian defender Karim Nizigiyimana’s time at Gor Mahia has come to an end. The news is coming in just a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/Karim-Niziyimana16-1170x600.png",
+        "createdAt": "November 30, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.753Z"
+    },
+    {
+        "_id": "5ecfe1af040626231771638c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "SUPER CUP CLASH – Gor Mahia to face Sharks in Nairobi",
+        "url": "http://gormahiafc.co.ke/super-cup-clash-gor-mahia-to-face-sharks-in-nairobi/",
+        "excerpt": "After pulling a 1- 0 win over Nyasa Big Bullets of Malawi in CAF group stage qualifier match on Wednesday…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose-1170x600.png",
+        "createdAt": "November 29, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.754Z"
+    },
+    {
+        "_id": "5ecfe1af040626231771638d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Ondiek grabs late winner as Gor Mahia beat Big Bullets",
+        "url": "http://gormahiafc.co.ke/ondiek-grabs-late-winner-as-gor-mahia-beat-big-bullets/",
+        "excerpt": "Midfielder Bernard Ondiek scored in added time to help Gor Mahia beat Nyasa Big Bullets 1-0 in first leg of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/Bernard-Ondiek2-1170x600.png",
+        "createdAt": "November 28, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.755Z"
+    },
+    {
+        "_id": "5ecfe1af040626231771638e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Erisa to start for Gor Mahia as Zico names squad to face Big Bullets",
+        "url": "http://gormahiafc.co.ke/erisa-to-start-for-gor-mahia-as-zico-names-squad-to-big-bullets/",
+        "excerpt": "Gor Mahia’s new signing Erissa Ssekisambu has been named in the starting team to face Nyasa Big Bullets of Malawi…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/line_up-1170x600.png",
+        "createdAt": "November 28, 2018",
+        "scrappedDate": "2020-05-28T16:07:11.755Z"
+    },
+    {
+        "_id": "5ecfe1b2040626231771638f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia coach Zico upbeat ahead of CAF clash",
+        "url": "http://gormahiafc.co.ke/gor-mahia-coach-zico-upbeat-ahead-of-caf-clash/",
+        "excerpt": "Gor Mahia coach Zedekiah ‘Zico’ Otieno is optimistic his team will get good results in CAF group stage qualifier match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/Zedekiah-Otieno-1170x600.png",
+        "createdAt": "November 27, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.682Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716390",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s milestones in continental football",
+        "url": "http://gormahiafc.co.ke/gor-mahias-milestones-in-continental-football/",
+        "excerpt": "Gor Mahia begin their continental journey on Wednesday with a home fixture against Malawi’s Nyasa Big Bullets at Kasarani stadium.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/shakava_usma-1170x600.png",
+        "createdAt": "November 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.685Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716391",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia unveil eight new players ahead of the new season",
+        "url": "http://gormahiafc.co.ke/gor-mahia-unveil-eight-new-players-ahead-of-the-new-season/",
+        "excerpt": "Ahead of the new season that will be kicking off on Wednesday with a CAF match at Kasarani, SportPesa Premier…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/new_signing-1170x600.png",
+        "createdAt": "November 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.688Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716392",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "MEDIA INVITE",
+        "url": "http://gormahiafc.co.ke/media-invite/",
+        "excerpt": "Gor Mahia chairman Ambrose Rachier to address the media The chairman will today Monday 26, November 2018 have a session…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose-rachier-1170x600.png",
+        "createdAt": "November 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.691Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716393",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "CAF appoints Sudanese to officiate Gor Mahia’s match",
+        "url": "http://gormahiafc.co.ke/caf-appoints-sudanese-to-officiate-gor-mahias-match/",
+        "excerpt": "CAF has appointed match officials from Sudan to be in charge of the Champions League group stage qualifier match pitting…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/captains_officials-1170x600.png",
+        "createdAt": "November 24, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.692Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716394",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia opponents from Malawi to land on Sunday",
+        "url": "http://gormahiafc.co.ke/gor-mahia-opponents-from-malawi-to-land-on-sunday/",
+        "excerpt": "Nyasa Big Bullets of Malawi who will be facing Gor Mahia in a CAF group stage qualifier match will be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/sally-1170x600.png",
+        "createdAt": "November 24, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.693Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716395",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s CAF match has been rescheduled",
+        "url": "http://gormahiafc.co.ke/gor-mahias-caf-match-has-been-rescheduled/",
+        "excerpt": "Gor Mahia’s CAF group stage qualifier match against Nyasa Big Bullets of Malawi has been rescheduled. The first leg match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_celebrate-1-1170x600.png",
+        "createdAt": "November 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.694Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716396",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Zico: Preparations for CAF match are in top gear",
+        "url": "http://gormahiafc.co.ke/zico-preparations-for-caf-match-are-in-top-gear/",
+        "excerpt": "After the departure of coach Dylan Kerr, Gor Mahia Assistant coach Zedekiah ‘Zico’ Otieno who is now in charge of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/62D6164D-D8ED-43FD-B3A5-EDC5515DA28B.jpeg",
+        "createdAt": "November 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.694Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716397",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Who is the best foreign coach Gor Mahia have had in recent years? Find out",
+        "url": "http://gormahiafc.co.ke/who-is-the-best-foreign-coach-gor-mahia-have-had-in-recent-years-find-out/",
+        "excerpt": "After a stellar stint at Gor Mahia, coach Dylan Kerr has decided to move on. With back to back league…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/celebration-1-1170x600.png",
+        "createdAt": "November 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.695Z"
+    },
+    {
+        "_id": "5ecfe1b20406262317716398",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia part ways with coach Dylan Kerr",
+        "url": "http://gormahiafc.co.ke/gor-mahia-part-ways-with-coach-dylan-kerr/",
+        "excerpt": "Gor Mahia have today parted ways with head coach Dylan Kerr. The news is coming after immense speculations about his…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ker-1170x600.png",
+        "createdAt": "November 15, 2018",
+        "scrappedDate": "2020-05-28T16:07:14.696Z"
+    },
+    {
+        "_id": "5ecfe1b60406262317716399",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Date confirmed for Gor Mahia – Sharks Super Cup Clash",
+        "url": "http://gormahiafc.co.ke/date-confirmed-for-gor-mahia-sharks-super-cup-clash/",
+        "excerpt": "The date for next season’s curtain raiser Super Cup has been confirmed. The match pitting 2018 SportPesa Premier League champions…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/gor_karis-1170x600.png",
+        "createdAt": "November 15, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.122Z"
+    },
+    {
+        "_id": "5ecfe1b6040626231771639a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to resume training as preparation for new season kicks off",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-resume-training-as-preparation-for-new-season-kicks-off/",
+        "excerpt": "After a one week tour of United Kingdom where they played one high profile friendly match against Everton, Gor Mahia…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/oduda-1170x600.png",
+        "createdAt": "November 12, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.125Z"
+    },
+    {
+        "_id": "5ecfe1b6040626231771639b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Previous meetings favour Gor Mahia over Malawians",
+        "url": "http://gormahiafc.co.ke/previous-meetings-favour-gor-over-malawians/",
+        "excerpt": "Gor Mahia begin their latest continental adventure with a game versus Malawi soccer giants Nyasa Big Bullets. This will be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/gor_Nyasa-Big-1170x600.png",
+        "createdAt": "November 12, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.127Z"
+    },
+    {
+        "_id": "5ecfe1b6040626231771639c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia end UK trip",
+        "url": "http://gormahiafc.co.ke/gor-mahia-end-uk-trip/",
+        "excerpt": "Gor Mahia end their seven days United Kingdom tour today and head back to Kenya. The team left Liverpool by…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/0B198406-3B4A-474D-BE33-F73EF7EF44BC-1170x600.jpeg",
+        "createdAt": "November 10, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.128Z"
+    },
+    {
+        "_id": "5ecfe1b6040626231771639d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia draw Malawi Giants in CAF Champions League",
+        "url": "http://gormahiafc.co.ke/gor-mahia-draw-malawi-giants-in-caf-champions-league/",
+        "excerpt": "The 23rd edition of Total CAF Champions League 2018/2019 draws have been released by CAF. Gor Mahia have been drawn…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/gor_Nyasa-1170x600.png",
+        "createdAt": "November 9, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.129Z"
+    },
+    {
+        "_id": "5ecfe1b6040626231771639e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Good experience for Gor Mahia at Goodison Park",
+        "url": "http://gormahiafc.co.ke/good-experience-for-gor-mahia-at-goodison-park/",
+        "excerpt": "Gor Mahia’s tour of England culminated in a historic match with Everton at the famed Goodison Park last night. While…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/E91B2A23-397C-4863-984B-310BD0CE9789-1170x600.jpeg",
+        "createdAt": "November 7, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.130Z"
+    },
+    {
+        "_id": "5ecfe1b6040626231771639f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names Gor squad to face Everton",
+        "url": "http://gormahiafc.co.ke/kerr-names-gor-squad-to-face-everton/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has named his squad that will be facing Everton toninght at Goodison Park in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/squad-1170x600.png",
+        "createdAt": "November 6, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.130Z"
+    },
+    {
+        "_id": "5ecfe1b604062623177163a0",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia patron Raila Odinga to join the team in Liverpool",
+        "url": "http://gormahiafc.co.ke/gor-mahia-patron-raila-odinga-to-join-the-team-in-liverpool/",
+        "excerpt": "Former Prime Minister Raila Odinga who is also Gor Mahia patron will be joining the team in Liverpool today. Odinga,…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/5243B432-F943-4F82-B9E5-F3362D61AEC0-960x600.jpeg",
+        "createdAt": "November 5, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.131Z"
+    },
+    {
+        "_id": "5ecfe1b604062623177163a1",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia land safely in London ahead of clash with Everton",
+        "url": "http://gormahiafc.co.ke/gor-mahia-land-safely-in-london-ahead-of-clash-with-everton/",
+        "excerpt": "Gor Mahia landed safely this evening at Heathrow airport in London ahead of their friendly match against English Premier League…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/11/0B198406-3B4A-474D-BE33-F73EF7EF44BC-1170x600.jpeg",
+        "createdAt": "November 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.132Z"
+    },
+    {
+        "_id": "5ecfe1b604062623177163a2",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia sign striker from Kericho",
+        "url": "http://gormahiafc.co.ke/gor-mahia-sign-striker-from-kericho/",
+        "excerpt": "Gor Mahia have today signed striker Nicholas Kipkirui from Zoo Kericho. Kipkirui becomes the latest player to be officially announced…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/Nicholas-Kipkirui-1170x600.png",
+        "createdAt": "October 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:18.133Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a3",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia sign defender from Kariobangi Sharks",
+        "url": "http://gormahiafc.co.ke/gor-mahia-sign-defender-from-kariobangi-sharks/",
+        "excerpt": "In a bid to strengthen the squad in readiness for the new season, Gor Mahia have signed defender Pascal Ogweno…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/Pascal-Ogweno-1170x600.png",
+        "createdAt": "October 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.006Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a4",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Legend Thigo remains one of Gor Mahia’s favorite",
+        "url": "http://gormahiafc.co.ke/legend-thigo-remains-one-of-gor-mahias-favorites/",
+        "excerpt": "On May 27 1970, Allan Thigo made his debut for Gor Mahia in the Nairobi Provincial League match against Algenya…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/Gor-Legends-1170x600.png",
+        "createdAt": "October 25, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.009Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a5",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Muguna confirms return to Gor Mahia",
+        "url": "http://gormahiafc.co.ke/muguna-confirms-return-to-gor-mahia/",
+        "excerpt": "Midfielder Kenneth Muguna has today signed a three year deal with Gor Mahia. Muguna is making a return to the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/muguna-1-1170x600.png",
+        "createdAt": "October 17, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.012Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Batambuze pens 2 years contract with Gor Mahia",
+        "url": "http://gormahiafc.co.ke/batambuze-pens-2-years-contract-with-gor-mahia/",
+        "excerpt": "Shafik Batambuze has today penned a two year contract with the reigning champions Gor mahia FC in readiness for the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/singida-1170x600.png",
+        "createdAt": "October 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.014Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a7",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s amazing numbers after winning 2018 title",
+        "url": "http://gormahiafc.co.ke/gor-mahias-amazing-numbers-after-winning-2018-title/",
+        "excerpt": "Not even a draw against Mathare United could put a damper on Gor Mahia as they lifted the Sportpesa Kenya…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/10/kerr_trophy-1170x600.png",
+        "createdAt": "October 3, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.016Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a8",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia crowned the 2018 KPL Champions",
+        "url": "http://gormahiafc.co.ke/gor-mahia-crowned-the-2018-kpl-champions/",
+        "excerpt": "",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/champions_2018-1170x600.png",
+        "createdAt": "September 30, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.016Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163a9",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Asudi earns starting role as Kerr names Gor Mahia squad to face Mathare Utd",
+        "url": "http://gormahiafc.co.ke/asudi-earns-starting-role-as-kerr-names-gor-mahia-squad-to-face-mathare-utd/",
+        "excerpt": "It’s a party day for Gor Mahia and coach Dylan Kerr is set to lift his second league title –…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/asudi-390x220.jpg",
+        "createdAt": "September 30, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.017Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163aa",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia confirm two new players",
+        "url": "http://gormahiafc.co.ke/gor-mahia-confirm-two-new-players/",
+        "excerpt": "In a bid to strengthen the squad for next year’s assignments, Gor Mahia have confirmed two new players who will…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/wafula_celebrate-1170x600.png",
+        "createdAt": "September 28, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.018Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163ab",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: My toughest time at Gor Mahia",
+        "url": "http://gormahiafc.co.ke/kerr-my-toughest-time-at-gor-mahia/",
+        "excerpt": "Following a series of negative results in the last few weeks, Gor Mahia head coach Dylan Kerr has released a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ker-1170x600.png",
+        "createdAt": "September 27, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.019Z"
+    },
+    {
+        "_id": "5ecfe1b904062623177163ac",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia go down to Vihiga United in Mumias",
+        "url": "http://gormahiafc.co.ke/gor-mahia-go-down-to-vihiga-united-in-mumias/",
+        "excerpt": "Gor Mahia went down 2-0 to Vihiga United in a league match in Mumias today. A goal in each half…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/mieno_vihiga-1-1170x600.png",
+        "createdAt": "September 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:21.020Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163ad",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names Gor Mahia squad to face Vihiga United",
+        "url": "http://gormahiafc.co.ke/kerr-names-gor-mahia-squad-to-face-vihiga-united/",
+        "excerpt": "Gor Mahia head coach has named his team that will be taking on Vihiga United today in a league fixture…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/the-wakulima-1170x600.png",
+        "createdAt": "September 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.928Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163ae",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We have a chance to make things right",
+        "url": "http://gormahiafc.co.ke/kerr-we-have-a-chance-to-make-things-right/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr says they have a great chance to make things right on matters performance. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/kerr-1170x600.png",
+        "createdAt": "September 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.931Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163af",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Captain Shakava calls for calm  at Gor Mahia",
+        "url": "http://gormahiafc.co.ke/captain-shakava-calls-for-calmness-at-gor-mahia/",
+        "excerpt": "Gor Mahia captain Haron Shakava has called on all club stakeholders to calm down and focus on making the club…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/shakava-1170x600.png",
+        "createdAt": "September 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.934Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b0",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia chairman’s statement on club’s status",
+        "url": "http://gormahiafc.co.ke/gor-mahia-chairmans-statement-on-clubs-status/",
+        "excerpt": "Gor Mahia FC Chairman Mr. Ambrose Rachier issuning statement on club’s status at 680 hotel – Nairobi on 24th September…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose-rachier-1170x600.png",
+        "createdAt": "September 24, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.937Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b1",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges to face Ulinzi Stars",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-to-face-ulinzi-stars/",
+        "excerpt": "Head coach Dylan Kerr has named his charges to face Ulinzi Stars in a league tie this afternoon. Peter Odhiambo…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/the-wakulima-1170x600.png",
+        "createdAt": "September 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.939Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b2",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia name 21 players for Machakos trip",
+        "url": "http://gormahiafc.co.ke/gor-mahia-name-21-players-for-machakos-trip/",
+        "excerpt": "Gor Mahia have named 21 players who will be traveling to Machakos for today’s league match against Ulinzi Stars. A…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/celebration2-1170x600.png",
+        "createdAt": "September 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.942Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b3",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Blow to Gor Mahia as CAF Disciplinary Board imposes financial sanction",
+        "url": "http://gormahiafc.co.ke/blow-to-gor-mahia-as-caf-disciplinary-board-imposes-financial-sanction/",
+        "excerpt": "Gor Mahia has been dealt a blow as CAF Disciplinary Board fines the club 5,000 dollars (Sh 500,000) for fans…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_players_half.png",
+        "createdAt": "September 18, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.943Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b4",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to take on Ulinzi Stars in Machakos",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-take-on-ulinzi-stars-in-machakos/",
+        "excerpt": "After going down to Thika United over the weekend, Gor Mahia will be hosting Ulinzi Stars in league tie in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/kahata_move.png",
+        "createdAt": "September 18, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.944Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b5",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia take on Thika United in league tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-take-on-thika-united-in-league-tie/",
+        "excerpt": "After the international break, Gor Mahia resume action in local league with an away match to Thika United this afternoon.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/gor_thika-1170x600.png",
+        "createdAt": "September 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.945Z"
+    },
+    {
+        "_id": "5ecfe1bb04062623177163b6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia players to take part in international matches",
+        "url": "http://gormahiafc.co.ke/gor-mahia-players-to-take-part-in-international-matches/",
+        "excerpt": "Five Gor Mahia players will be playing for their various countries this weekend in Fifa international fixtures. Francis Kahata, Joash…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/philemom_hahata_joash-1170x600.png",
+        "createdAt": "September 8, 2018",
+        "scrappedDate": "2020-05-28T16:07:23.945Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163b7",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Odhiambo starts in fourth straight match as Gor face Sharks",
+        "url": "http://gormahiafc.co.ke/odhiambo-starts-in-fourth-straight-match-as-gor-face-sharks/",
+        "excerpt": "Goalkeeper Fredrick Odhiambo is starting today against Kariobangi Sharks in SportpesaShield quarter-final match in Machakos. This will be Odhiambo’s fourth…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/09/Fredrick-Odhiambo-1170x600.png",
+        "createdAt": "September 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.749Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163b8",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia take on Sharks in Shield quarters",
+        "url": "http://gormahiafc.co.ke/gor-mahia-take-on-sharks-in-shield-quarters/",
+        "excerpt": "After being knocked out of 2018 CAF Confederations Cup competition on Wednesday in Algiers, Gor Mahia continue their pursuit of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/lokuwam-1170x600.png",
+        "createdAt": "September 1, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.750Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163b9",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Karim handed starting role as Kerr names squad to face USMA in Algiers",
+        "url": "http://gormahiafc.co.ke/karim-handed-starting-role-as-kerr-names-squad-to-face-usma-in-algiers/",
+        "excerpt": "Defender Karim Nizigiyimana and goalkeeper Fredrick Odhiambo have been named in the starting team take on USM Alger today in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Karim-Nzigiyimana1-1170x600.png",
+        "createdAt": "August 29, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.751Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163ba",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Aduda: We arrived safely in Algiers",
+        "url": "http://gormahiafc.co.ke/aduda-we-arrived-safely-in-algiers/",
+        "excerpt": "Gor Mahia CEO Lordvick Aduda has confirmed the team arrived safely in Algiers for tommorow’s Caf Confederation Cup match against…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/oduda-1170x600.png",
+        "createdAt": "August 28, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.753Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163bb",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Karim, Odhiambo part of Gor Mahia travelling party to Algeria",
+        "url": "http://gormahiafc.co.ke/karim-odhiambo-part-of-gor-mahia-traveling-party-to-algeria/",
+        "excerpt": "Gor Mahia goalkeeper Fredrick Odhiambo and defender Karim Nizigiyimana are part of the travelling party to Algeria for the Caf…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Karim-and-Fredrick-1170x600.png",
+        "createdAt": "August 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.754Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163bc",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "The Feeling of a Champion… Gor Mahia players speak after winning league title",
+        "url": "http://gormahiafc.co.ke/the-feeling-of-a-champion-gor-mahia-players-speak-after-winning-league-title/",
+        "excerpt": "Winning a league title is one thing and winning a 17th league title with six matches to spare and over…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/the-wakulima-1170x600.png",
+        "createdAt": "August 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.755Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163bd",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia are the 2018 Champions",
+        "url": "http://gormahiafc.co.ke/gor-mahia-are-the-2018-champions/",
+        "excerpt": "Gor Mahia clinched the 2018 league title today after beating rivals AFC Leopards 2-0 at Kasarani. Goals from Boniface Omondi…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/celebration2-1170x600.png",
+        "createdAt": "August 25, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.756Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163be",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges for Mashemeji Derby",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-for-mashemeji-derby/",
+        "excerpt": "Head coach Dylan Kerr has released his lineup to face AFC Leopards in the 84th Mashemeji Derby today at Kasarani.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/fredrick_odhiambo-1170x600.png",
+        "createdAt": "August 25, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.758Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163bf",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia ready to clinch title with victory over Leopards",
+        "url": "http://gormahiafc.co.ke/gor-mahia-ready-to-clinch-title-with-victory-over-leopards/",
+        "excerpt": "As the season nears its culmination, Kenya’s biggest football event will be going down at Kasarani tomorrow (Saturday) – Gor…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Geroge-Odhiambo-1170x600.png",
+        "createdAt": "August 24, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.759Z"
+    },
+    {
+        "_id": "5ecfe1be04062623177163c0",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia thank President Kenyatta for big support",
+        "url": "http://gormahiafc.co.ke/gor-mahia-thank-president-kenyatta-for-big-support/",
+        "excerpt": "Gor Mahia FC has thanked President Uhuru Kenyatta and his government for coming through in a big way to support…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/President-Uhuru-Kenyatta1-1170x600.png",
+        "createdAt": "August 24, 2018",
+        "scrappedDate": "2020-05-28T16:07:26.759Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c1",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "50 years of Mashemeji Derby at a glance",
+        "url": "http://gormahiafc.co.ke/50-years-of-mashemeji-derby-at-a-glance/",
+        "excerpt": "By winning against Thika last Saturday, AFC Leopards ensured that they would not be in a position to mount a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/memories2-1170x600.png",
+        "createdAt": "August 23, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.080Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c2",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s thunder strikes little Pakas in Narok",
+        "url": "http://gormahiafc.co.ke/gor-mahias-thunder-strikes-little-pakas-in-narok/",
+        "excerpt": "Playing for the first time at Narok stadium in Narok, Gor Mahia had to announce their presence in the Maa…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/mustafa_celebrate-1170x600.png",
+        "createdAt": "August 22, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.083Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c3",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Odhiambo starts for Gor Mahia as Kerr rests key players against Sofapaka",
+        "url": "http://gormahiafc.co.ke/odhiambo-starts-for-gor-mahia-as-kerr-rests-key-players-against-sofapaka/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has made 11 changes to the team that played on Sunday against Rayon Sports…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/lineup1-1170x600.png",
+        "createdAt": "August 22, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.084Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c4",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We have one agenda against Sofapaka",
+        "url": "http://gormahiafc.co.ke/kerr-we-have-one-agenda-against-sofapaka/",
+        "excerpt": "Ahead of tommorow’s (Wednesday) league match btween Gor Mahia and Sofapaka in Narok, head coach Dylan Kerr says they have…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/kerr_ziko-1170x600.png",
+        "createdAt": "August 21, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.084Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c5",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia face Sofapaka in league tie after Sunday’s setback",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-sofapaka-in-league-tie-after-sundays-setback/",
+        "excerpt": "After going down 1-2 to Rayon Sports in Caf Confederation Cup match at Kasarani on Sunday, Gor Mahia returns to…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/cercidy_okeyo-1170x600.png",
+        "createdAt": "August 21, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.085Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia falls to Ryon Sports",
+        "url": "http://gormahiafc.co.ke/gor-mahia-vs-ryon-sports-in-pictures/",
+        "excerpt": "Gor Mahia went down 2-1 to Ryon Sports of Rwanda in Caf Confederation Cup match at Kasarani on Sunday. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/mustafe_congrats-1170x600.png",
+        "createdAt": "August 19, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.086Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c7",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia Macron replicas officially go on sale",
+        "url": "http://gormahiafc.co.ke/gor-mahia-macron-replicas-officially-go-on-sale/",
+        "excerpt": "The much awaited Gor Mahia Macron replicas are officially on sale. The information about the new kit the club is…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/macron_jersey-1170x600.png",
+        "createdAt": "August 18, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.087Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c8",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor-Rayon match tickets to be available on Sunday",
+        "url": "http://gormahiafc.co.ke/gor-rayon-match-tickets-to-be-available-on-sunday/",
+        "excerpt": "Tickets for the Caf Confederation Cup match between Gor Mahia and Rayon Sports of Rwanda will be available on the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_sofapaka-1170x600.png",
+        "createdAt": "August 17, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.089Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163c9",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "KU student writes history at Gor Mahia with priceless goal",
+        "url": "http://gormahiafc.co.ke/ku-student-writes-history-at-gor-mahia-with-priceless-goal/",
+        "excerpt": "When lines will be going down on Gor Mahia’s history wall, one player will feature prominently – Eliud Lokuwam. After…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/Eliud_Lokuwam2-1170x600.png",
+        "createdAt": "August 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.089Z"
+    },
+    {
+        "_id": "5ecfe1c204062623177163ca",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia are five points away from 17th title after today’s win",
+        "url": "http://gormahiafc.co.ke/gor-mahia-are-five-points-away-from-17th-title-after-todays-win/",
+        "excerpt": "A solitary goal from substitute Eliud Lokuwam on the 77th minute helped league leaders Gor Mahia to pull a win…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/lokuwam-1170x600.png",
+        "createdAt": "August 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:30.090Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163cb",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Zimbabwean officials to officiate Gor-Rayon Caf match",
+        "url": "http://gormahiafc.co.ke/zimbabwean-officials-to-officiate-gor-rayon-caf-match/",
+        "excerpt": "Referees from Zimbambwe will be in charge of Sunday’s Caf Confederation Cup match where Gor Mahia will be hosting Rayon…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/111-960x600.png",
+        "createdAt": "August 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.437Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163cc",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his squad to take on Chemelil Sugar",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-squad-to-take-on-chemelil-sugar/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has named his team to take on Chemelil Sugar in a league match today…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/lineup1-1170x600.png",
+        "createdAt": "August 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.439Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163cd",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to play Everton at Goodison Park in November",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-play-everton-at-goodison-park-in-november/",
+        "excerpt": "After winning the SportPesa Super Cup this year, Gor Mahia will fly to Europe to face Everton in a friendly…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/gor_everton1-1170x600.png",
+        "createdAt": "August 16, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.440Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163ce",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia appreciate governor’s support",
+        "url": "http://gormahiafc.co.ke/gor-mahia-appreciate-governors-support/",
+        "excerpt": "Gor Mahia through their CEO Lordvick Aduda have appreciated the support offered by Kisumu County governor Prof. Anyang’ Nyong’o during…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/mieno_team_celebrate-1170x600.png",
+        "createdAt": "August 13, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.441Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163cf",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia hammer Homeboyz to hit 60 points mark",
+        "url": "http://gormahiafc.co.ke/gor-mahia-hammer-homeboyz-to-hit-60-points-mark/",
+        "excerpt": "Gor Mahia beat Kakamega Homeboyz 3-1 in a league match in Kisumu today to hit 62 points to maintain the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/mustafa-3-1170x600.png",
+        "createdAt": "August 13, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.442Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163d0",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges to face Homeboyz",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-to-face-homeboyz/",
+        "excerpt": "Head coach Dylan Kerr has released his line-up that will face Kakamega Homeboyz this afternoon in a league match in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/nizigiyimana-1170x600.png",
+        "createdAt": "August 13, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.443Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163d1",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia chairman Rachier gives a statement on Walusimbi’s move to Keizer Chiefs",
+        "url": "http://gormahiafc.co.ke/gor-mahia-chairman-rachier-gives-a-statement-on-walusimbis-move-to-keizer-chiefs/",
+        "excerpt": "Following the surprise news of Gor Mahia defender Godfrey Walusimbi’s ‘move’ to South African side Keizer Chiefs, the club’s chairman…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose-rachier-1170x600.png",
+        "createdAt": "August 11, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.443Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163d2",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia beat Rangers to extend lead",
+        "url": "http://gormahiafc.co.ke/gor-mahia-beat-rangers-to-extend-lead/",
+        "excerpt": "Gor Mahia beat Posta Rangers 2-1 in Kisumu today to extend lead at the top of SportPesa Premier League. Goals…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/tuyisenge_goal_ksm1-1170x600.png",
+        "createdAt": "August 10, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.444Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163d3",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names line-up to face Rangers",
+        "url": "http://gormahiafc.co.ke/kerr-names-lineup-to-face-rangers/",
+        "excerpt": "Head coach Dylan Kerr names his lineup to square out with Posta Rangers this afternoon in a league match. Boniface…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_gor.png",
+        "createdAt": "August 10, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.445Z"
+    },
+    {
+        "_id": "5ecfe1c504062623177163d4",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia face Posta Rangers as tight schedule continues",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-posta-rangers-as-tight-schedule-continues/",
+        "excerpt": "After going down for the first time in 2018 in a league match on Tuesday in Mombasa against Bandari, Gor…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/warm_up-1170x600.png",
+        "createdAt": "August 9, 2018",
+        "scrappedDate": "2020-05-28T16:07:33.446Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163d5",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia Technical Committee meets Technical staff to solve rifts",
+        "url": "http://gormahiafc.co.ke/gor-mahia-technical-committee-meets-technical-staff-to-solve-rifts/",
+        "excerpt": "Gor Mahia technical committee headed by Hon. John Pesa held a meeting today with the technical staff to solve what…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/oduda-1170x600.png",
+        "createdAt": "August 8, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.127Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163d6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia v Bandari in pictures",
+        "url": "http://gormahiafc.co.ke/gor-mahia-v-bandari-in-pictures/",
+        "excerpt": "It was the fist defeat for Gor Mahia when they lost 2:1 to host Bandari FC in a match played…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/haron_shakava-1170x600.png",
+        "createdAt": "August 7, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.130Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163d7",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges to face Bandari FC",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-to-face-bandari-fc/",
+        "excerpt": "Head coach, Dylan Kerr, has released the lineup that will square with Bandari FC this afternoon in our 23rd match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/line_up-1170x600.png",
+        "createdAt": "August 7, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.131Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163d8",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia, Nakumatt share spoils in Machakos",
+        "url": "http://gormahiafc.co.ke/gor-mahia-nakumatt-share-spoils-in-machakos/",
+        "excerpt": "Nakumatt had to come from behind to grab a point against Gor Mahia in a league match that ended 2-2…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/onyango_nakumatt-1170x600.png",
+        "createdAt": "August 4, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.132Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163d9",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Karim starts on the bench as Gor’s squad to face Nakumatt is named",
+        "url": "http://gormahiafc.co.ke/karim-starts-on-the-bench-as-gors-squad-to-face-nakumatt-is-named/",
+        "excerpt": "Defender Karim Nizigiyimana has been named on the bench in the team to play Nakumatt today in a league match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/nizigiyimana3-1170x600.png",
+        "createdAt": "August 4, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.132Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163da",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: Expectations are high but we are taking one game at a time",
+        "url": "http://gormahiafc.co.ke/kerr-expectations-are-high-but-we-are-taking-one-game-at-a-time/",
+        "excerpt": "The month of August is a tight one for Gor Mahia and the league leaders already kicked off the month…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/team_gor2-1170x600.png",
+        "createdAt": "August 3, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.133Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163db",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Rachier thanks Owalo for offering big support to Gor Mahia",
+        "url": "http://gormahiafc.co.ke/rachier-thanks-owalo-for-offering-big-support-to-gor-mahia/",
+        "excerpt": "Gor Mahia chairman Ambrose Rachier has thanked a Nairobi based management consultant Eliud Owalo for his support to the club.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/08/ambrose_rachier-1170x600.png",
+        "createdAt": "August 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.135Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163dc",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Good news for Gor Mahia as Karim set to feature in matches",
+        "url": "http://gormahiafc.co.ke/good-news-for-gor-mahia-as-karim-set-to-feature-in-matches/",
+        "excerpt": "Gor Mahia defender Karim Nizigiyimana is set to make a big come-back to action in league matches. The news was…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/kharin_nizigiyimana1-1170x600.png",
+        "createdAt": "August 2, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.136Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163dd",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia sink Sharks to extend lead",
+        "url": "http://gormahiafc.co.ke/gor-mahia-sink-sharks-to-extend-lead/",
+        "excerpt": "Gor Mahia beat Kariobangi Sharks 3-0 in Kisumu today to extend their lead in the league. Kevin Omondi and Lawrence…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/ade_move-1170x600.png",
+        "createdAt": "August 1, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.137Z"
+    },
+    {
+        "_id": "5ecfe1c904062623177163de",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We will battle hard and continue working to be better",
+        "url": "http://gormahiafc.co.ke/kerr-we-will-battle-hard-and-continue-working-to-be-better/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has said they will battle hard and make sure players’ mentality is focused in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/kerr_congrats-1170x600.png",
+        "createdAt": "August 1, 2018",
+        "scrappedDate": "2020-05-28T16:07:37.138Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163df",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Why Gor Mahia will play home game in Kisumu",
+        "url": "http://gormahiafc.co.ke/why-gor-mahia-will-play-home-game-in-kisumu/",
+        "excerpt": "Gor Mahia will be hosting Kariobangi Sharks in Kisumu tomorrow (Wednesday) in a league match at Moi stadium. The match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/877D4B9E-2488-4C0A-B02D-0EB29DE245E1-1170x600.jpeg",
+        "createdAt": "July 31, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.736Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e0",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia stars lead in Caf football charts",
+        "url": "http://gormahiafc.co.ke/gor-mahia-stars-lead-in-caf-football-chats/",
+        "excerpt": "With the good performances that have been exhibited in this year’s continental matches by Gor Mahia, a number of our…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/tuyi_gui_onyi_mieno-1-1170x600.png",
+        "createdAt": "July 31, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.739Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e1",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Rachier: Tight fixtures will have implications on Gor Mahia",
+        "url": "http://gormahiafc.co.ke/rachier-tight-fixtures-will-have-implications-on-gor-mahia/",
+        "excerpt": "Gor Mahia chairman Ambrose Rachier has said that the tight schedule in store will have huge effects on the club.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/rachier_sportpesa1-390x220.jpg",
+        "createdAt": "July 30, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.743Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e2",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Crucial victory in Dar-Es-Salaam keeps K’Ogalo marching to quarters",
+        "url": "http://gormahiafc.co.ke/crucial-victory-in-dar-es-salaam-keeps-kogalo-marching-to-quarters/",
+        "excerpt": "Gor Mahia beat Young Afrcians SC 2-3 away in Dar-Es-Salaam on Sunday evening and could just be on their way…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_celebrate-1170x600.png",
+        "createdAt": "July 29, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.744Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e3",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Omondi starts as Kerr names Gor’s squad to face Yanga",
+        "url": "http://gormahiafc.co.ke/omondi-starts-as-kerr-names-gors-squad-to-face-yanga/",
+        "excerpt": "Kevin Omondi has been handed a starting role against Young Africans in today’s Caf Confederation Cup match in Tanzania. Head…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/the_squad-1170x600.png",
+        "createdAt": "July 29, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.745Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e4",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "18 Gor Mahia players are off to Tanzania",
+        "url": "http://gormahiafc.co.ke/18-gor-mahia-players-are-off-to-tanzania/",
+        "excerpt": "A total of 18 players will be hitting the run-way to Tanzania tonight for the Caf Confederation Cup match against…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/team_squad-1170x600.png",
+        "createdAt": "July 27, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.745Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e5",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Tuyisenge wins June award",
+        "url": "http://gormahiafc.co.ke/tuyisenge-wins-june-award/",
+        "excerpt": "No one achieves success without the help of others, let me take this opportunity to thank my teammates, technical bench…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/player_of_month-1170x600.png",
+        "createdAt": "July 26, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.746Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia beat Rangers to progress in Shield tournament",
+        "url": "http://gormahiafc.co.ke/gor-mahia-beat-rangers-to-progress-in-shield-tournament/",
+        "excerpt": "Gor Mahia continued with their good run after beating Posta Rangers 3-1 in Sportpesa Shield tournament at Kasarani today. A…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/4C12D683-9D63-4643-8310-D58B847078D7-1170x600.jpeg",
+        "createdAt": "July 25, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.747Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e7",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names Gor’s squad to face Rangers in Shield match",
+        "url": "http://gormahiafc.co.ke/kerr-names-gors-squad-to-face-rangers-in-shield-match/",
+        "excerpt": "Gor Mahia coach Dylan Kerr has made several changes to his starting team against Posta Rangers in Sportpesa Shield match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/lineup1-1170x600.png",
+        "createdAt": "July 25, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.748Z"
+    },
+    {
+        "_id": "5ecfe1d304062623177163e8",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Karim officially returns to Gor Mahia",
+        "url": "http://gormahiafc.co.ke/karim-officially-returns-to-gor-mahia/",
+        "excerpt": "Gor Mahia defender Karim Nizigiyimana officially returned to the team after staying out for nine months due to injury. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/kharin_nizigiyimana-1170x600.png",
+        "createdAt": "July 25, 2018",
+        "scrappedDate": "2020-05-28T16:07:47.748Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163e9",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to face Posta Rangers in Shield tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-posta-rangers-in-shield-tie/",
+        "excerpt": "After sinking AFC Leopards in a gruelling derby match over the weekend, Gor Mahia Will be facing Posta Rangers in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/onyango-1170x600.png",
+        "createdAt": "July 25, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.405Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163ea",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia beat Leopards to extend lead at the top",
+        "url": "http://gormahiafc.co.ke/gor-mahia-beat-leopards-to-extend-lead-at-the-top/",
+        "excerpt": "Gor Mahia beat rivals AFC Leopards 2-1 today at Kasarani to stretch their unbeaten run to 20 league matches. Goals…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/521177EF-3020-42B3-944B-0951A3DFCE39-1170x600.jpeg",
+        "createdAt": "July 22, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.407Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163eb",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names Gor’s squad to face Leopards in derby match",
+        "url": "http://gormahiafc.co.ke/kerr-names-gors-squad-to-face-leopards-in-derby-match/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has named his squad to face AFC Leopards in derby match today at Kasarani.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/the_squad-1170x600.png",
+        "createdAt": "July 22, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.409Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163ec",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "K’ogalo thump Yanga to keep quarters dream alive",
+        "url": "http://gormahiafc.co.ke/kogalo-thump-yanga-to-keep-quarters-dream-alive/",
+        "excerpt": "Gor Mahia’s CAF Confederations Cup quarters dream is alive and kicking, thanks to a classic team performance against visiting Young…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/goal_celebrate-1170x600.png",
+        "createdAt": "July 19, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.412Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163ed",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia treasurer gives directions on match tickets",
+        "url": "http://gormahiafc.co.ke/gor-mahia-treasurer-gives-directions-on-match-tickets/",
+        "excerpt": "Gor Mahia treasurer Sally Bolo has given out a word on where fans can get the Gor-Yanga match tickets today.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/sally-1170x600.png",
+        "createdAt": "July 18, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.414Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163ee",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s success story in Cecafa  tournament",
+        "url": "http://gormahiafc.co.ke/gor-mahias-success-story-in-cecafa-tournament/",
+        "excerpt": "Gor Mahia’s match against Tanzania’s Azam will today be their 65th match in Cecafa Club Challenge Cup History (now branded…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/mustafa_celebrate-1170x600.png",
+        "createdAt": "July 11, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.415Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163ef",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia shove Vipers aside to book first Cecafa semi-final slot",
+        "url": "http://gormahiafc.co.ke/gor-mahia-beat-vipers-to-qualify-to-cecafa-semi-final/",
+        "excerpt": "Gor Mahia booked the first 2018 Cecafa Kagame Cup semi-final slot with a well worked 2-1 come back victory over…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/Francis-Mustafa.png",
+        "createdAt": "July 8, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.416Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163f0",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names Gor’s squad to face Vipers in Cecafa quarters",
+        "url": "http://gormahiafc.co.ke/kerr-names-gors-squad-to-face-vipers-in-cecafa-quarters/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has named his team that will be taking on Vipers of Uganda in quarter-final…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_gor.png",
+        "createdAt": "July 8, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.417Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163f1",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to meet Vipers in Cecafa quarters",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-meet-vipers-in-cecafa-quarters/",
+        "excerpt": "Gor Mahia will be facing Vipers of Uganda on Sunday in quarter-final tie in the on-going Kageme Cecafa tournament in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/tuyisenge-goal.png",
+        "createdAt": "July 6, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.418Z"
+    },
+    {
+        "_id": "5ecfe21e04062623177163f2",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia are through to Cecafa quarters",
+        "url": "http://gormahiafc.co.ke/gor-mahia-are-through-to-cecafa-quarters/",
+        "excerpt": "Gor Mahia are through to Cecafa Kageme tournament after beating AS Port of Djibouti 2-0 in the last match of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/D7517E90-2EB7-4B7F-966D-407D4F418F33-1080x600.jpeg",
+        "createdAt": "July 5, 2018",
+        "scrappedDate": "2020-05-28T16:09:02.419Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f3",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "New signing Mustafa starts on the bench as Gor’s squad to face Lydia is named",
+        "url": "http://gormahiafc.co.ke/new-signing-mustafa-starts-on-the-bench-as-gors-squad-to-face-lydia-is-named/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has named his team that will be facing Lydia Ludic of Burindi in their…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_msa.png",
+        "createdAt": "July 3, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.342Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f4",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia coach turns down three big offers, pays allegiance to the club",
+        "url": "http://gormahiafc.co.ke/gor-mahia-coach-turns-down-three-big-offers-pays-allegiance-to-the-club/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has turned down big coaching offers from three different countries to dedicate his loyalty…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/kerr_barge.png",
+        "createdAt": "July 2, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.345Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f5",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We have off pitch issues but my players are giving their best",
+        "url": "http://gormahiafc.co.ke/kerr-we-have-off-pitch-issues-but-my-players-are-giving-their-best/",
+        "excerpt": "Gor Mahia head coach has given out a word that despite some of the challenges they are facing off the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/ker_trend.png",
+        "createdAt": "July 1, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.347Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f6",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia draw against Rayon Sports in first Cecafa tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-draw-gainst-rayon-sports-in-fisrt-cecafa-tie/",
+        "excerpt": "Gor Mahia smoked a 2-0 lead at half break to draw 2-2 against Rayon Sports of Rwanda in the on-going…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/07/gor_ryon1-1170x600.png",
+        "createdAt": "July 1, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.348Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f7",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to face Rayon Sports in Cecafa opener",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-rayon-sports-in-cecafa-opener/",
+        "excerpt": "Gor Mahia will be facing Rayon Sports of Rwanda in their first match of Cecafa tournament today in Tanzania as…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/gor_celebrating.png",
+        "createdAt": "July 1, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.348Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f8",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia sign striker Mustafa from Rwanda",
+        "url": "http://gormahiafc.co.ke/gor-mahia-sign-striker-mustafa-from-rwanda/",
+        "excerpt": "Gor Mahia have signed striker Francis Mustafa from Kiyovu Sports of Rwanda. The Burundian who is an outright striker, signed…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/2A6288D6-BA36-49A9-AF4A-5BF7A424DB98-1170x600.jpeg",
+        "createdAt": "June 29, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.349Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163f9",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Wellington Ochieng’ pens down new deal at Gor Mahia",
+        "url": "http://gormahiafc.co.ke/wellington-ochieng-pens-down-new-deal-at-gor-mahia/",
+        "excerpt": "Defender Wellingiton Ochieng’ has extended his stay at Gor Mahia by penning down a three year deal today. The right-back…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/wellington_ochieng1-1170x600.png",
+        "createdAt": "June 29, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.350Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163fa",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Will Gor Mahia continue with their dominance over SoNy? See the record",
+        "url": "http://gormahiafc.co.ke/will-gor-mahia-continue-with-their-dominance-over-sony-see-the-record/",
+        "excerpt": "Tommorow, Gor Mahia Will be taking on SoNy in a league match in Kisumu for the 46th time in the…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/guikan_celebrate-1170x600.png",
+        "createdAt": "June 28, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.351Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163fb",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr happy with Gor’s performance in 5-0 hammering of Rangers",
+        "url": "http://gormahiafc.co.ke/kerr-happy-with-gors-performance-in-5-0-hammering-of-rangers/",
+        "excerpt": "Gor Mahia coach Dylan Kerr appreciated the kind of performance his side exhibited against Posta Rangers in Kisumu today. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/ker_trend.png",
+        "createdAt": "June 26, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.351Z"
+    },
+    {
+        "_id": "5ecfe23304062623177163fc",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges to face Posta Rangers",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-to-face-posta-rangers/",
+        "excerpt": "Head Coach, Dylan Kerr, has released his squad to face Posta Rangers in a league match this afternoon. Ephreim Guikan…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/guikan-390x220.png",
+        "createdAt": "June 26, 2018",
+        "scrappedDate": "2020-05-28T16:09:23.352Z"
+    },
+    {
+        "_id": "5ecfe24404062623177163fd",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to host Rangers in Kisumu",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-host-rangers-in-kisumu/",
+        "excerpt": "After successful outing in Nakuru, Gor Mahia shift base to Kisumu City to play two home matches against Posta Rangers…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/gor_tem_tz-1-1170x600.png",
+        "createdAt": "June 25, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.888Z"
+    },
+    {
+        "_id": "5ecfe24404062623177163fe",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Shakava: We have depth to stand test of tight schedule",
+        "url": "http://gormahiafc.co.ke/shakava-we-have-depth-to-stand-test-of-tight-schedule/",
+        "excerpt": "Gor Mahia captain Haron Shakava is optimistic the team will stand the test of time as there is good depth…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/haron_shakava-1170x600.png",
+        "createdAt": "June 25, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.889Z"
+    },
+    {
+        "_id": "5ecfe24404062623177163ff",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to play two matches before heading to Tanzania",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-play-two-matches-before-heading-to-tanzania/",
+        "excerpt": "Gor Mahia will be having two league matches before hitting the run-way to Tanzania for Cecafa tournament. The league leaders…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/gor_tem_tz-1-1170x600.png",
+        "createdAt": "June 25, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.890Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716400",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia beat Ulinzi to extend lead",
+        "url": "http://gormahiafc.co.ke/gor-mahia-beat-ulinzi-to-extend-lead/",
+        "excerpt": "A performance brimming with character saw off Ulinzi Stars at Afraha Stadium as Gor Mahia rolled up their sleeves, stayed…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/2kahata_goal_cel.png",
+        "createdAt": "June 23, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.891Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716401",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names strong squad to face Ulinzi Stars",
+        "url": "http://gormahiafc.co.ke/kerr-names-strong-squad-to-face-ulinzi-stars/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has named a strong side to take on Ulinzi Stars in today’s league match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_gor.png",
+        "createdAt": "June 23, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.892Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716402",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to take on Soldiers in Nakuru",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-take-on-soldiers-in-nakuru/",
+        "excerpt": "After mid-week encounter against Kenpoly in SportPesa Shield, Gor Mahia shift focus to league match away to Ulinzi Stars in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/berry.png",
+        "createdAt": "June 22, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.893Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716403",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia through to next stage of Shield tournament",
+        "url": "http://gormahiafc.co.ke/gor-mahia-through-to-next-stage-of-shield-tournament/",
+        "excerpt": "Gor Mahia are through to the next stage of SportPesa Shield tournament after overwhelming Kenpoly 5-0 in Machakos today. Striker…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/Ephrem-Guikan.png",
+        "createdAt": "June 20, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.894Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716404",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to play Kenpoly in Machakos",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-play-kenpoly-in-machakos/",
+        "excerpt": "After a successful trip to Kisumu where Gor Mahia played two league matches and collected maximum points, gears are shifting…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/asudi-390x220.jpg",
+        "createdAt": "June 19, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.895Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716405",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia harvest maximum points against Sugar Millers",
+        "url": "http://gormahiafc.co.ke/gor-mahia-harvest-maximum-points-against-sugar-millers/",
+        "excerpt": "A brace from striker Jacques Tuyisenge and a superb effort from Humphrey Mieno were enough to give Gor a 3-1…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/tuyisenge_nzoia.png",
+        "createdAt": "June 17, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.898Z"
+    },
+    {
+        "_id": "5ecfe2440406262317716406",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his squad to face Nzoia Sugar",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-squad-to-face-nzoia-sugar/",
+        "excerpt": "Boniface Omondi has been named in the starting team to face Nzoia Sugar today in a SportPesa Premier League fixture…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/omondi_biniface.png",
+        "createdAt": "June 17, 2018",
+        "scrappedDate": "2020-05-28T16:09:40.898Z"
+    },
+    {
+        "_id": "5ecfe2470406262317716407",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to face Sugar Millers in Kisumu",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-sugar-millers-in-kisumu/",
+        "excerpt": "Gor Mahia will be facing Nzoia Sugar in a SportPesa Premier League game tommorow (Sunday) in Kisumu. This will be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/jaja_walu_gorteam.png",
+        "createdAt": "June 16, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.447Z"
+    },
+    {
+        "_id": "5ecfe2470406262317716408",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kagere ready to extend stay at Gor, appreciates team mates",
+        "url": "http://gormahiafc.co.ke/kagere-ready-to-extend-stay-at-gor-appreciates-team-mates/",
+        "excerpt": "Gor Mahia top scorer Meddie Kagere has said he is ready to listen to what the club will offer him…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/meddie_kagere-1.png",
+        "createdAt": "June 14, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.450Z"
+    },
+    {
+        "_id": "5ecfe2470406262317716409",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia win in Kisumu to extend lead",
+        "url": "http://gormahiafc.co.ke/gor-mahia-win-in-kisumu-to-extend-lead/",
+        "excerpt": "Gor Mahia beat Wazito 4-0 to extend the lead at the top of Kenyan Premier League table. A brace from…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/boniface_omondi1.png",
+        "createdAt": "June 13, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.451Z"
+    },
+    {
+        "_id": "5ecfe247040626231771640a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Oluoch back to starting team as Gor Mahia face Wazito",
+        "url": "http://gormahiafc.co.ke/oluoch-back-to-starting-team-as-gor-mahia-face-wazito/",
+        "excerpt": "Goalkeeper Boniface Oluoch is back to the starting team as squad to play against Wazito in a league match in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/bonny_oluoch.png",
+        "createdAt": "June 13, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.454Z"
+    },
+    {
+        "_id": "5ecfe247040626231771640b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to stay in Kisumu for five days",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-stay-in-kisumu-for-five-days/",
+        "excerpt": "Gor Mahia will be in Kisumu for five days starting today (Wednesday). The team left Nairobi at 6.15am and landed…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kagere_on_move1.png",
+        "createdAt": "June 13, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.454Z"
+    },
+    {
+        "_id": "5ecfe247040626231771640c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Focus shifts to league campaign as Gor Mahia eye another prize",
+        "url": "http://gormahiafc.co.ke/focus-shifts-to-league-campaign-as-gor-mahia-eye-another-prize/",
+        "excerpt": "After winning the SportPesa Super Cup tournament over the weekend, Gor Mahia have shifted their focus to the Kenyan Premier…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/95EBAF5C-B2F1-4714-A824-3B9408A05C97-1170x600.jpeg",
+        "createdAt": "June 12, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.455Z"
+    },
+    {
+        "_id": "5ecfe247040626231771640d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia outclass Simba to win Super Cup",
+        "url": "http://gormahiafc.co.ke/gor-mahia-outclass-simba-to-win-super-cup/",
+        "excerpt": "",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/D45D8C3E-0CAD-4EDE-9692-F51E938FCA3E.jpeg",
+        "createdAt": "June 10, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.456Z"
+    },
+    {
+        "_id": "5ecfe247040626231771640e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges for Super Cup finals",
+        "url": "http://gormahiafc.co.ke/kerr-maintains-semi-squad-for-simba/",
+        "excerpt": "Gor Mahia head coach, Dylan Kerr, maintains his squad that edged out Singida in the Super Cup semis. Shaban starts…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/squad_simba.png",
+        "createdAt": "June 10, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.457Z"
+    },
+    {
+        "_id": "5ecfe247040626231771640f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor-Simba titanic clash to rekindle old memories",
+        "url": "http://gormahiafc.co.ke/gor-simba-titanic-clash-to-rekindle-old-memories/",
+        "excerpt": "The SportPesa Super Cup final match between Gor Mahia and Simba of Tanzania today will revive the old memories when…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/jaja_walu_gorteam.png",
+        "createdAt": "June 10, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.459Z"
+    },
+    {
+        "_id": "5ecfe2470406262317716410",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Wellington happy to return after injury",
+        "url": "http://gormahiafc.co.ke/wellington-happy-to-return-after-injury/",
+        "excerpt": "Gor Mahia defender Wellington Ochieng’ is happy to return to the team after recovering from an ankle injury he sustained…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/wellington_ochieng.png",
+        "createdAt": "June 9, 2018",
+        "scrappedDate": "2020-05-28T16:09:43.461Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716411",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kagere aims to achieve more in Super Cup",
+        "url": "http://gormahiafc.co.ke/kagere-aims-to-achieve-more-in-super-cup/",
+        "excerpt": "Gor Mahia striker Meddie Kagere is aiming to achieve more in SportPesa Super Cup with the final match against Simba…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/kagere_waves.png",
+        "createdAt": "June 8, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.607Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716412",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Midfielder Wendo happy to get a nod from Everton coaches",
+        "url": "http://gormahiafc.co.ke/midfielder-wendo-happy-to-get-a-nod-from-everton-coaches/",
+        "excerpt": "On a chilly Thursday evening when Gor Mahia proved their worthiness by beating Singida United 2-0 in SportPesa Super Cup…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/wendo_reward.png",
+        "createdAt": "June 7, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.610Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716413",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia win to book a date with Simba in Super Cup final",
+        "url": "http://gormahiafc.co.ke/gor-mahia-win-to-book-a-date-with-simba-in-super-cup-final/",
+        "excerpt": "A brace from striker Meddie Kagere was enough to send Singida United under and book a date with Simba of…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/kagere_goal.png",
+        "createdAt": "June 7, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.611Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716414",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr unleashes strong squad to tackle Singida",
+        "url": "http://gormahiafc.co.ke/kerr-unleashes-strong-squad-to-tackle-singida/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has released what is viewed as his best side to take on Singida United…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_gor.png",
+        "createdAt": "June 7, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.612Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716415",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "First clash to decide Gor Mahia’s destiny",
+        "url": "http://gormahiafc.co.ke/first-clash-to-decide-gor-mahias-destiny/",
+        "excerpt": "In today’s SportPesa Super Cup semi-final match in Nakuru, Gor Mahia will be facing Singida United for the first time…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/kerr_decision.png",
+        "createdAt": "June 7, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.612Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716416",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to face Singida in semis",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-singida-in-semis/",
+        "excerpt": "Gor Mahia will take on Singida United of Tanzania in SportPesa Super Cup semi-final match on Thursday. This comes after…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/guikan_goal.png",
+        "createdAt": "June 5, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.613Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716417",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia off to a good start in Super Cup",
+        "url": "http://gormahiafc.co.ke/gor-mahia-off-to-a-good-start-in-super-cup/",
+        "excerpt": "SportPesa Super Cup defending champions Gor Mahia, started their tournament campaign with a 3-0 over JKU of Zanzibar in a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/george_berry.png",
+        "createdAt": "June 4, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.614Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716418",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges to face JKU",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-to-face-jku/",
+        "excerpt": "Head coach Dylan Kerr has named his lineup to face JKU in the first match of SportPesa Super Cup. Shaban…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/shaban_odhoji.png",
+        "createdAt": "June 3, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.614Z"
+    },
+    {
+        "_id": "5ecfe2490406262317716419",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "StartTimes to air SportPesa Super Cup",
+        "url": "http://gormahiafc.co.ke/starttimes-to-air-sportpesa-super-cup/",
+        "excerpt": "StarTimes will air the SportPesa Super Cup tournament which kicks off today at 1pm in Nakuru. The matches will be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/sport_pesasupercup.png",
+        "createdAt": "June 3, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.615Z"
+    },
+    {
+        "_id": "5ecfe249040626231771641a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We are ready for SporPesa tournament",
+        "url": "http://gormahiafc.co.ke/kerr-we-are-ready-for-sporpesa-tournament/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr says they are ready for the SportPesa Super Cup tournament that kicks off today…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/ker_trend.png",
+        "createdAt": "June 3, 2018",
+        "scrappedDate": "2020-05-28T16:09:45.616Z"
+    },
+    {
+        "_id": "5ecfe24b040626231771641b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Grief hits Gor Mahia as player losses two family members",
+        "url": "http://gormahiafc.co.ke/grief-hits-gor-mahia-as-player-losses-two-family-members/",
+        "excerpt": "Gor Mahia camp is in sorrowful mood as they share the pain of one player who lost his mother and…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/1D6D5309-9CAD-415A-9C54-4CC0F1C63B08-1170x600.jpeg",
+        "createdAt": "June 1, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.771Z"
+    },
+    {
+        "_id": "5ecfe24b040626231771641c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor captain Shakava reveals their ‘fear’ in SportPesa tournament",
+        "url": "http://gormahiafc.co.ke/gor-captain-shakava-reveals-their-fear-in-sportpesa-tournament/",
+        "excerpt": "With just two days to go, Gor Mahia captain Haron Shakava has revealed their main worry in the tournament. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/haron_shakava-2.png",
+        "createdAt": "May 31, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.772Z"
+    },
+    {
+        "_id": "5ecfe24b040626231771641d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia coach apologises to fans and stakeholders",
+        "url": "http://gormahiafc.co.ke/gor-mahia-coach-apologises-to-fans-and-stakeholders/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has sent out a word of apology to fans and the club’s stakeholders for…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/ker_trend.png",
+        "createdAt": "May 30, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.774Z"
+    },
+    {
+        "_id": "5ecfe24b040626231771641e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: Our game plan worked against a difficult side",
+        "url": "http://gormahiafc.co.ke/kerr-our-game-plan-worked-against-a-difficult-side/",
+        "excerpt": "Gor Mahia head coach didn’t hesitate to praise his players for taking in given instructions in a league match they…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kagere_on_move1.png",
+        "createdAt": "May 30, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.775Z"
+    },
+    {
+        "_id": "5ecfe24b040626231771641f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia sink sugar millers to stay top",
+        "url": "http://gormahiafc.co.ke/gor-mahia-sink-sugar-millers-to-stay-top/",
+        "excerpt": "A solitary goal by striker Ephrem Guikan on the 37th minute was all Gor Mahia needed to down SoNy Sugar…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/guikan_goal.png",
+        "createdAt": "May 30, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.776Z"
+    },
+    {
+        "_id": "5ecfe24b0406262317716420",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names strong squad to face SoNy",
+        "url": "http://gormahiafc.co.ke/kerr-names-strong-squad-to-face-sony/",
+        "excerpt": "",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_gor.png",
+        "createdAt": "May 30, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.778Z"
+    },
+    {
+        "_id": "5ecfe24b0406262317716421",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia face SoNy in league showdown",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-sony-in-league-showdown/",
+        "excerpt": "After eliminating SS Assad of Mombasa in SportPesa Shield last Sunday, Gor Mahia resume league duties with a mid-week fixture…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/onyango.png",
+        "createdAt": "May 30, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.779Z"
+    },
+    {
+        "_id": "5ecfe24b0406262317716422",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia’s travelling party confirmed",
+        "url": "http://gormahiafc.co.ke/gor-mahias-traveling-party-confirmed/",
+        "excerpt": "Gor Mahia traveling team to Kisumu for league match has been confirmed. The team will be facing SoNy Sugar tommorow…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kenya_airway1.png",
+        "createdAt": "May 29, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.780Z"
+    },
+    {
+        "_id": "5ecfe24b0406262317716423",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Turn of events as Gor recall players from Harambee Stars’ camp",
+        "url": "http://gormahiafc.co.ke/turn-of-events-as-gor-recall-players-from-harambee-stars-camp/",
+        "excerpt": "Gor Mahia through the club’s CEO Lordvick Aduda wrote to Football Kenya Federation to release their players as they have…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/E07DCB75-5E53-4F09-8F16-358AE2089B0A-1170x600.jpeg",
+        "createdAt": "May 29, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.785Z"
+    },
+    {
+        "_id": "5ecfe24b0406262317716424",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr happy with his players’ attitude",
+        "url": "http://gormahiafc.co.ke/kerr-happy-with-his-players-attitude/",
+        "excerpt": "After yesterday’s 5-1 demolition of SS Assad of Mombasa in Round One of SportPesa Shield tournament match, the head coach…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kerr_happy1.png",
+        "createdAt": "May 28, 2018",
+        "scrappedDate": "2020-05-28T16:09:47.785Z"
+    },
+    {
+        "_id": "5ecfe24e0406262317716425",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor start off Shield campaign with 5-1 win",
+        "url": "http://gormahiafc.co.ke/gor-start-off-shield-campaign-with-5-1-win/",
+        "excerpt": "Dor Mahia started off the SportPesa Shield campaign with a 5-1 win over Mombasa based side SS Assad at Mbaraki…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/got_ssad.png",
+        "createdAt": "May 27, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.504Z"
+    },
+    {
+        "_id": "5ecfe24e0406262317716426",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Odhiambo starts as Gor’s squad against SS Assad is named",
+        "url": "http://gormahiafc.co.ke/odhiambo-starts-as-gors-squad-against-ss-assad-is-named/",
+        "excerpt": "In the absence of first choice custodian Boniface Oluoch, Fredrick Odhiambo has been given a chance to start against SS…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/squad_msa.png",
+        "createdAt": "May 27, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.507Z"
+    },
+    {
+        "_id": "5ecfe24e0406262317716427",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to make maiden train trip",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-make-maiden-train-trip/",
+        "excerpt": "As a way of exploring and enjoying the gift of mother nature, Gor Mahia will be traveling by train to…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/A1A2C9F2-418C-4961-AE2B-95B5F824EF96.jpeg",
+        "createdAt": "May 26, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.509Z"
+    },
+    {
+        "_id": "5ecfe24e0406262317716428",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia are looking for a fitness trainer",
+        "url": "http://gormahiafc.co.ke/gor-mahia-are-looking-for-a-fitness-trainer/",
+        "excerpt": "With fixtures coming thick and fast, there is need for players to fit to be able to stand the tides…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/ambrose_rachier1-390x220.jpg",
+        "createdAt": "May 24, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.511Z"
+    },
+    {
+        "_id": "5ecfe24e0406262317716429",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to play in Mombasa on Sunday",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-play-in-mombasa-on-sunday/",
+        "excerpt": "Gor Mahia will be facing SS Assad of Mombasa in SportPesa Shield fixture on Sunday 27th May at Mbaraki stadium…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/ja_suba.png",
+        "createdAt": "May 24, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.511Z"
+    },
+    {
+        "_id": "5ecfe24e040626231771642a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "KPL postpones weekend’s derby",
+        "url": "http://gormahiafc.co.ke/kpl-postpones-weekends-derby/",
+        "excerpt": "The league organizers, Kenyan Premier League Limited, have postponed the weekend’s league fixture pitting AFC Leopards and Gor Mahia. This…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_afc_sp.png",
+        "createdAt": "May 23, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.512Z"
+    },
+    {
+        "_id": "5ecfe24e040626231771642b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Positive progress in Ochieng’ recovery process",
+        "url": "http://gormahiafc.co.ke/positive-progress-in-ochieng-recovery-process/",
+        "excerpt": "Defender Wellington Ochieng’ has been out of action since he sustained ankle injury in a league match against Bandari in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/wellingtom.png",
+        "createdAt": "May 23, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.513Z"
+    },
+    {
+        "_id": "5ecfe24e040626231771642c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to face SS Shield",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-face-ss-assad-in-sportpesa-shield/",
+        "excerpt": "Gor Mahia have been paired with SS Assad of Mombasa in SportPesa Shield  tournament in a draw that was done…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/10727B06-4D7D-4696-8399-2038D062AB49-1170x600.jpeg",
+        "createdAt": "May 22, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.513Z"
+    },
+    {
+        "_id": "5ecfe24e040626231771642d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Philemon apologises to Gor fans, says his dream has come true",
+        "url": "http://gormahiafc.co.ke/philemon-apologises-to-gor-fans-says-his-dream-has-come-true/",
+        "excerpt": "Gor Mahia midfilder Philemon Otieno has apologised to Gor fans for letting a win slip away in yesterday’s league match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/philemon_otieno1.png",
+        "createdAt": "May 21, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.514Z"
+    },
+    {
+        "_id": "5ecfe24e040626231771642e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: My players did not listen to instructions",
+        "url": "http://gormahiafc.co.ke/kerr-my-players-did-not-listen-to-instructions/",
+        "excerpt": "After giving away a 2-0 lead and had to fight for a later equalizer against Sofapaka in a league match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_players_half.png",
+        "createdAt": "May 21, 2018",
+        "scrappedDate": "2020-05-28T16:09:50.515Z"
+    },
+    {
+        "_id": "5ecfe251040626231771642f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia share spoils with Sofapaka in Machakos",
+        "url": "http://gormahiafc.co.ke/gor-mahia-share-spoils-with-sofapaka-in-machakos/",
+        "excerpt": "Gor Mahia had to snatch a later equalizer against Sofapaka in a nail biting league clash that ended 3-3 in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/move1-1170x600.png",
+        "createdAt": "May 20, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.642Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716430",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his charges to face Sofapaka",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-charges-to-face-sofapaka/",
+        "excerpt": "Innocent Wafula gets a starting role in today’s match against Sofapaka in a lineup that sees most regular starters rested…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/wafula_innocent-1170x600.png",
+        "createdAt": "May 20, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.644Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716431",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Seven Gor Mahia players earn national team call ups",
+        "url": "http://gormahiafc.co.ke/seven-gor-mahia-players-earn-national-team-call-ups/",
+        "excerpt": "Seven are among the 24 players named by Harambee Stars’ head coach Sébastien Migné ahead of international friendly matches. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/E07DCB75-5E53-4F09-8F16-358AE2089B0A-1170x600.jpeg",
+        "createdAt": "May 19, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.646Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716432",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Governor Mutua fulfills his promise to Gor Mahia",
+        "url": "http://gormahiafc.co.ke/governor-mutua-fulfills-his-promise-to-gor-mahia/",
+        "excerpt": "MMachakos County governor Dr. Alfred Mutua has fulfilled his promise of donating money to Gor Mahia. The govern had previously…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/1C5C0175-5DB2-4F7F-89E5-0AD168B23D99-1024x600.jpeg",
+        "createdAt": "May 18, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.649Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716433",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We are ready to battle to keep our unbeaten form",
+        "url": "http://gormahiafc.co.ke/kerr-we-are-ready-to-battle-to-keep-our-unbeaten-form/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has said his side is ready to go all the way to keep their…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/3E22C509-6A37-4116-A83F-3AA09595137C-960x600.png",
+        "createdAt": "May 18, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.651Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716434",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia league quest continues",
+        "url": "http://gormahiafc.co.ke/gor-mahia-league-quest-continues/",
+        "excerpt": "After hosting both Hull City and USM Alger in high profile international friendly and Caf Confederation Cup respectively, Gor Mahia…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/4307947F-8E37-4CE9-9F45-141E1C395B99.jpeg",
+        "createdAt": "May 18, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.651Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716435",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia start off with Sofapaka after continental football",
+        "url": "http://gormahiafc.co.ke/gor-mahia-start-off-with-sofapaka-after-continental-football/",
+        "excerpt": "After playing two group matches in Caf Confederation Cup and a high profile friendly match against Hull City, Gor Mahia…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_sofapaka-1170x600.png",
+        "createdAt": "May 18, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.652Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716436",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia to participate in SportPesa Super Cup",
+        "url": "http://gormahiafc.co.ke/gor-mahia-to-participate-in-sportpesa-super-cup/",
+        "excerpt": "Gor Mahia will take part in this year’s SportPesa Super Cup edition to be held in Nairobi at Kasarani stadium…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/47FEC771-BA0E-4617-8955-8A534026CE51-1170x600.jpeg",
+        "createdAt": "May 17, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.653Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716437",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "USM Alger hold Gor Mahia at Kasarani",
+        "url": "http://gormahiafc.co.ke/usm-alger-hold-gor-mahia-at-kasarani/",
+        "excerpt": "Gor Mahia were held to a barren draw by USM Alger of Algeria in a Caf Confederation Cup match played…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/tuyisenge_algers_action-1170x600.png",
+        "createdAt": "May 16, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.654Z"
+    },
+    {
+        "_id": "5ecfe2510406262317716438",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names Gor’s squad to face USM Alger",
+        "url": "http://gormahiafc.co.ke/kerr-names-gors-squad-to-face-usm-alger/",
+        "excerpt": "Boniface Omondi has been named in Gor Mahia’s starting team to face USM Alger of Algeria tonight in Caf Confederation…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_homeboyz-390x220.png",
+        "createdAt": "May 16, 2018",
+        "scrappedDate": "2020-05-28T16:09:53.654Z"
+    },
+    {
+        "_id": "5ecfe2530406262317716439",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Match tickets to be available at the stadium",
+        "url": "http://gormahiafc.co.ke/match-tickets-to-be-available-at-the-stadium/",
+        "excerpt": "Tickets for tommorow’s Caf Confederation Cup fixture between Gor Mahia and USM Alger of Algeria will be available at Kasarani…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/banner-1170x600.png",
+        "createdAt": "May 15, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.983Z"
+    },
+    {
+        "_id": "5ecfe253040626231771643a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Doping test to be done during Gor Mahia’s match",
+        "url": "http://gormahiafc.co.ke/doping-test-to-be-done-during-gor-mahias-match/",
+        "excerpt": "Big competitions like CAF tournaments do have regulations and requirements that shape up its nature to make it stand out.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/dopping-1170x600.png",
+        "createdAt": "May 15, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.986Z"
+    },
+    {
+        "_id": "5ecfe253040626231771643b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Rachier: Everything sorted, match to go on as planned",
+        "url": "http://gormahiafc.co.ke/rachier-everything-sorted-match-to-go-on-as-planned/",
+        "excerpt": "Gor Mahia chairman Ambrose Rachier has confirmed that the Caf Confederation Cup match against USM Alger will go on tommorow…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/rachier_sportpesa1-390x220.jpg",
+        "createdAt": "May 15, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.987Z"
+    },
+    {
+        "_id": "5ecfe253040626231771643c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr says Gor is ready for USM Alger",
+        "url": "http://gormahiafc.co.ke/kerr-says-gor-is-ready-for-usm-alger/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr said today that his side is more than ready for tommorow’s Caf Confederation Cup…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/1ED6017E-DED1-4776-A901-80B0F4439DD0-1170x600.jpeg",
+        "createdAt": "May 15, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.988Z"
+    },
+    {
+        "_id": "5ecfe253040626231771643d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Caf match tickets will be available on Wednesday",
+        "url": "http://gormahiafc.co.ke/caf-match-tickets-will-be-available-on-wednesday/",
+        "excerpt": "Gor Mahia treasurer Sally Bolo has released an update about Gor Mahia – USM Alger match tickets. ln a statement…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/fans-1170x600.png",
+        "createdAt": "May 14, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.989Z"
+    },
+    {
+        "_id": "5ecfe253040626231771643e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Shakava exudes confidence ahead of Caf crunch tie",
+        "url": "http://gormahiafc.co.ke/shakava-exudes-confidence-ahead-of-caf-crunch-tie/",
+        "excerpt": "Gor Mahia captain Haron is oozing confidence ahead of Caf Confederation Cup match against USM Alger of Algeria on Wednesday…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/haron_shakava1-1170x600.png",
+        "createdAt": "May 14, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.990Z"
+    },
+    {
+        "_id": "5ecfe253040626231771643f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia go down to Hull City in penalties",
+        "url": "http://gormahiafc.co.ke/gor-mahia-go-down-to-hull-city-in-penalties/",
+        "excerpt": "Gor Mahia went down to Hull City of England 4-3 in post match shoot out at Kasarani in a friendly…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kagere_tuyisenge1-390x220.png",
+        "createdAt": "May 13, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.990Z"
+    },
+    {
+        "_id": "5ecfe2530406262317716440",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "CAF confirms Kasarani will host Gor versus USM Alger tie",
+        "url": "http://gormahiafc.co.ke/caf-confirms-kasarani-will-host-gor-versus-usm-alger-tie/",
+        "excerpt": "Confederation of African Football on Friday confirmed the Confederation Cup between Gor Mahia and USM Alger of Algeria will be…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kasarani-390x220.png",
+        "createdAt": "May 11, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.991Z"
+    },
+    {
+        "_id": "5ecfe2530406262317716441",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: I want to show Hull City how good we are",
+        "url": "http://gormahiafc.co.ke/kerr-i-want-to-show-hull-city-how-good-we-are/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr is set and keen to show their Sunday’s opponents Hull City their best. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kerr_hullcity-390x220.png",
+        "createdAt": "May 11, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.992Z"
+    },
+    {
+        "_id": "5ecfe2530406262317716442",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia harvest maximum points in Kakamega",
+        "url": "http://gormahiafc.co.ke/gor-mahia-harvest-maximum-points-in-kakamega/",
+        "excerpt": "A brace from striker Ephrem Guikan and a late effort by defender Charlse Momanyi helped Gor Mahia to pull a…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/guikan-390x220.png",
+        "createdAt": "May 9, 2018",
+        "scrappedDate": "2020-05-28T16:09:55.992Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716443",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Shaban starts against Homeboyz",
+        "url": "http://gormahiafc.co.ke/shaban-starts-against-homeboyz/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr names his squad to take on Homeboyz this afternoon at Bhukungu stadium in Kakamega.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/shaban_odhoji-390x220.png",
+        "createdAt": "May 9, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.826Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716444",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia face Homeboyz in league tie",
+        "url": "http://gormahiafc.co.ke/gor-mahia-face-homeboyz-in-league-tie/",
+        "excerpt": "After the Caf Confederation Cup assignment in Rwanda, Gor Mahia will be taking on Kakamega Homeboyz today at Bukhungu in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/gor_homeboyz-390x220.png",
+        "createdAt": "May 9, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.829Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716445",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia coach praises his players despite criticism",
+        "url": "http://gormahiafc.co.ke/gor-mahia-coach-praises-his-players-despite-criticism/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has expressed strong support to his players despite criticism that have been coming from…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kerr_gor_coachtm-390x220.png",
+        "createdAt": "May 8, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.831Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716446",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Walusimbi starts as Kerr names team to face Rayon Sports",
+        "url": "http://gormahiafc.co.ke/walusimbi-starts-as-kerr-names-team-to-face-rayon-sports/",
+        "excerpt": "Gor Mahia defender Godfrey Walusimbi has been named in the starting team to face Rayon Sports in Kigali, Rwanda today.…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/jaja_walu-390x220.png",
+        "createdAt": "May 6, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.831Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716447",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr targets good results against Rayon Sports",
+        "url": "http://gormahiafc.co.ke/kerr-targets-good-results-against-rayon-sports/",
+        "excerpt": "Gahia head coach Dylan Kerr is upbeat ahead of today’s Caf Confederation Cup clash against Rayon Sports of Rwanda in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/10/gor_karis-390x220.jpg",
+        "createdAt": "May 6, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.832Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716448",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: Excitement is over, we are focused",
+        "url": "http://gormahiafc.co.ke/kerr-excitement-is-over-we-are-focused/",
+        "excerpt": "Gor Mahia squad is upbeat ahead of tommorow’s Caf Confederation Cup Group D clash with Rayon Sports of Rwanda in…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kerr_gor-390x220.png",
+        "createdAt": "May 5, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.833Z"
+    },
+    {
+        "_id": "5ecfe2560406262317716449",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Nzigiyima Starts light training sessions",
+        "url": "http://gormahiafc.co.ke/nzigiyima-starts-light-training-sessions/",
+        "excerpt": "Karim Nizigiyimana has been missing in action since the nasty ankle injury suffered in a league match against Mathare United…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/05/kharim_nizigi-390x220.png",
+        "createdAt": "May 4, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.838Z"
+    },
+    {
+        "_id": "5ecfe256040626231771644a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his squad for match 11.",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-squad-for-match-11/",
+        "excerpt": "Walusimbi makes a come back but will start from the bench in a lineup that will also see the combative…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/walu_nyakeya1-390x220.png",
+        "createdAt": "April 29, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.839Z"
+    },
+    {
+        "_id": "5ecfe256040626231771644b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor still at the summit despite dropping points",
+        "url": "http://gormahiafc.co.ke/gor-still-at-the-summit-despite-dropping-points/",
+        "excerpt": "Gor Mahia surrendered a two goal lead to settle for a 2- 2 draw against Chemelil Sugar in Kericho on…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/guikan_tuyisenge-390x220.png",
+        "createdAt": "April 25, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.840Z"
+    },
+    {
+        "_id": "5ecfe256040626231771644c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Defender Ochieng recovering well",
+        "url": "http://gormahiafc.co.ke/update-on-wellington-ochieng/",
+        "excerpt": "Defender Wellington Ochieng’ has been undergoing treatment since he suffered a minor fracture on his ankle during a league match…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/welington-390x220.jpg",
+        "createdAt": "April 24, 2018",
+        "scrappedDate": "2020-05-28T16:09:58.840Z"
+    },
+    {
+        "_id": "5ecfe259040626231771644d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "The road to Caf Confed Cup group stage",
+        "url": "http://gormahiafc.co.ke/the-road-to-caf-confed-cup-group-stage/",
+        "excerpt": "The road to Caf Confederation Cup group stage was not a smooth one to Kenya premier league champions – Gor…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/asudi-390x220.jpg",
+        "createdAt": "April 24, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.495Z"
+    },
+    {
+        "_id": "5ecfe259040626231771644e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia could play Hull City in Nairobi",
+        "url": "http://gormahiafc.co.ke/gor-mahia-could-play-hull-city-in-nairobi/",
+        "excerpt": "During the sponsorship deal announcement in Nairobi, SportPesa CEO Ronald Karauri confirmed that Hull City of England will be coming…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/gor_everton-390x220.jpg",
+        "createdAt": "April 24, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.498Z"
+    },
+    {
+        "_id": "5ecfe259040626231771644f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "SportPesa announces financial support to Gor Mahia",
+        "url": "http://gormahiafc.co.ke/sportpesa-announces-financial-support-to-gor-mahia/",
+        "excerpt": "SportPesa, one of the gaming firms in Kenya, signed a new partnership with Gor Mahia today in Nairobi. The three…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/04/sport_pesa_back-390x220.jpg",
+        "createdAt": "April 24, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.499Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716450",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Highlights: Gor Mahia FC vs Wazito FC",
+        "url": "http://gormahiafc.co.ke/highlights-gor-mahia-fc-vs-wazito-fc/",
+        "excerpt": "Jacques Tuyisenge header was all Gor Mahia needed to down hard fighting Wazito on Wednesday",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/06/tuyisenge_wazito-1170x600.png",
+        "createdAt": "April 11, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.500Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716451",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor tops after draw against Tusker",
+        "url": "http://gormahiafc.co.ke/gor-moves-top-after-a-draw-against-tusker/",
+        "excerpt": "Gor Mahia moved to top of KPL table after a barren draw against Tusker FC in a midweek match played…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/02/guikan-390x220.png",
+        "createdAt": "February 28, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.500Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716452",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Machakos stadium will favour Gor Mahia",
+        "url": "http://gormahiafc.co.ke/machakos-stadium-will-favour-gor-mahia/",
+        "excerpt": "Gor Mahia treasurer Sally Bolo is relieved to have rights to use Machakos Stadium which the club considers cheaper and…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2018/01/gov_mutua_sally-390x220.png",
+        "createdAt": "January 16, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.501Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716453",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia chairman Rachier meets sponsors",
+        "url": "http://gormahiafc.co.ke/gor-mahia-chairman-rachier-meets-sponsors/",
+        "excerpt": "Gor Mahia chairman Ambrose Rachier today held a meeting with SportPesa to table the club’s request for them not to…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/rachier_sponsors-390x220.jpg",
+        "createdAt": "January 4, 2018",
+        "scrappedDate": "2020-05-28T16:10:01.502Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716454",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia chairman’s statement on pending sponsorship pullout",
+        "url": "http://gormahiafc.co.ke/gor-mahia-chairmans-statement-on-pending-sponsorship-pullout/",
+        "excerpt": "It is with utmost regret that one day to the New Year, the sports fraternity has been plunged into chaos…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/ambrose_rachier1-390x220.jpg",
+        "createdAt": "December 30, 2017",
+        "scrappedDate": "2020-05-28T16:10:01.502Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716455",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia chairman happy with new constitution",
+        "url": "http://gormahiafc.co.ke/gor-mahia-chairman-happy-with-new-constitution/",
+        "excerpt": "Gor Mahia chairman, Ambrose Rachier, has expressed his delight in the new club constitution which was passed in an AGM…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/rachier_sportpesa1-390x220.jpg",
+        "createdAt": "December 12, 2017",
+        "scrappedDate": "2020-05-28T16:10:01.503Z"
+    },
+    {
+        "_id": "5ecfe2590406262317716456",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr wins coach of the month award",
+        "url": "http://gormahiafc.co.ke/kerr-wins-coach-of-the-month-award/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr has won the September’s Sports Journalist Association of Kenyan (SJAK) best coach award. The…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/kerr-1-390x220.png",
+        "createdAt": "November 16, 2017",
+        "scrappedDate": "2020-05-28T16:10:01.504Z"
+    },
+    {
+        "_id": "5ecfe25b0406262317716457",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia coach dismisses Harambee Stars links",
+        "url": "http://gormahiafc.co.ke/gor-mahia-coach-dismisses-harambee-stars-links/",
+        "excerpt": "After it emerged that Gor Mahia coach Dylan Kerr was ready to offer his help to the national team Harambee…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/11/kerr2-390x220.png",
+        "createdAt": "November 16, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.853Z"
+    },
+    {
+        "_id": "5ecfe25b0406262317716458",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr names his squad to face Bandari",
+        "url": "http://gormahiafc.co.ke/kerr-names-his-squad-to-face-bandari/",
+        "excerpt": "Head coach, Kerr, names his squad for today’s assignment against the dockers. Jacques Tuyisenge will pair upfront with Meddie Kagere…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/tuyisenge-390x220.png",
+        "createdAt": "September 30, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.856Z"
+    },
+    {
+        "_id": "5ecfe25b0406262317716459",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr apologizes to linesman after Gor beat Sofapaka",
+        "url": "http://gormahiafc.co.ke/kerr-apologizes-to-linesman-after-gor-beat-sofapaka/",
+        "excerpt": "After winning what was viewed be the mid-week’s big match where Gor Mahia hosted Sofapaka in Kusumu, Gor’s coach Dylan…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/24232066_1496950683721679_6177413690100120167_n-390x220.jpg",
+        "createdAt": "September 27, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.859Z"
+    },
+    {
+        "_id": "5ecfe25b040626231771645a",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Tuyisenge reveals what makes him happy at Gor",
+        "excerpt": "Gor Mahia striker Jacques Tuyisenge has revealed what makes him happy.  Talking to the official Gor Mahia website on Tuesday…",
+        "createdAt": "September 19, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.861Z"
+    },
+    {
+        "_id": "5ecfe25b040626231771645b",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We lost focus against Thika",
+        "url": "http://gormahiafc.co.ke/kerr-we-lost-focus-against-thika/",
+        "excerpt": "After Thika United holding Gor Mahia to a barren draw at Thika Municipal stadium on Sunday, Gor’s head coach Dylan…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/timo_kerr-390x220.jpg",
+        "createdAt": "September 19, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.863Z"
+    },
+    {
+        "_id": "5ecfe25b040626231771645c",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr applauds Gor Mahia fans",
+        "url": "http://gormahiafc.co.ke/kerr-applauds-gor-mahia-fans/",
+        "excerpt": "Gor Mahia head coach Dylan Kerr is appreciating fans support as the league enters its crucial and final stretch to…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/gor_fans-390x220.jpg",
+        "createdAt": "September 18, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.864Z"
+    },
+    {
+        "_id": "5ecfe25b040626231771645d",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Three senior players back to the squad as Gor Mahia face Thika United",
+        "url": "http://gormahiafc.co.ke/three-senior-players-back-to-the-squad-as-gor-mahia-face-thika-united/",
+        "excerpt": "Gor Mahia coach has included three senior players to the squad that will be facing Thika United in a league…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/oluoch_thika-390x220.jpg",
+        "createdAt": "September 17, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.864Z"
+    },
+    {
+        "_id": "5ecfe25b040626231771645e",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Gor Mahia drop points against Thika United",
+        "excerpt": "As expected,  league leaders Gor Mahia had a tough time against a defensive Thika United in a tie that ended…",
+        "createdAt": "September 17, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.865Z"
+    },
+    {
+        "_id": "5ecfe25b040626231771645f",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Karim happy to be back to Gor Mahia squad",
+        "url": "http://gormahiafc.co.ke/karim-happy-to-be-back-to-gor-mahia-squad/",
+        "excerpt": "Gor Mahia defender Karim Nizigiyimana is delighted to be back to the starting team. The 2015 defender of the year…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/nzigiyimana_thika-390x220.jpg",
+        "createdAt": "September 17, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.866Z"
+    },
+    {
+        "_id": "5ecfe25b0406262317716460",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Bitter memories are alive as Gor Mahia face Thika United",
+        "url": "http://gormahiafc.co.ke/bitter-memories-are-alive-as-gor-mahia-face-thika-united/",
+        "excerpt": "After beating Chemelil Sugar 3 – 0 in a mid-week league tie in Kisumu, Kenyan Premier League (KPL) leaders Gor…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/tuyisenge_injury1-390x220.jpg",
+        "createdAt": "September 16, 2017",
+        "scrappedDate": "2020-05-28T16:10:03.867Z"
+    },
+    {
+        "_id": "5ecfe25e0406262317716461",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: My work at Gor Mahia is a ‘nightmare’",
+        "url": "http://gormahiafc.co.ke/kerr-my-work-at-gor-mahia-is-a-nightmare/",
+        "excerpt": "With the scintillating form Gor Mahia is enjoying at the moment,  one would be right to think everything is fine…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/09/kerr_work-390x220.jpg",
+        "createdAt": "September 16, 2017",
+        "scrappedDate": "2020-05-28T16:10:06.197Z"
+    },
+    {
+        "_id": "5ecfe25e0406262317716462",
+        "club": "5ecc13dd685c419805bfbff8",
+        "title": "Kerr: We are yearning for more wins",
+        "url": "http://gormahiafc.co.ke/kerr-we-are-yearning-for-more-wins/",
+        "excerpt": "Despite opening a remarkable gap of nine points in Kenya Premier League (KPL) standing, Gor Mahia coach Dylan Kerr is…",
+        "imageUrl": "http://gormahiafc.co.ke/wp-content/uploads/2017/12/ker_zico-390x220.png",
+        "createdAt": "September 15, 2017",
+        "scrappedDate": "2020-05-28T16:10:06.200Z"
     }
 ]

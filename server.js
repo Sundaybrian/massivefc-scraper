@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const ClubArticles = require("./models/Article");
 
-const { readHtmlFile, createContent, extractArticles } = require("./scraper");
+const { readHtmlFile, writeFileToJSon, extractArticles } = require("./scraper");
 
 dotenv.config();
 
@@ -16,27 +16,37 @@ mongoose.connect(
 );
 
 // app.get("/scrape", async (req, res) => {
-//   //   const url = "http://gormahiafc.co.ke";
+//   const firstUrl = "http://gormahiafc.co.ke/category/news/page/32/";
 
 //   try {
-//     readHtmlFile("gor.html");
+//     // parse html and extract data
+//     const articles = await extractArticles(firstUrl);
+//     // add to mongodb
+//     const bulkAdd = await ClubArticles.insertMany(articles);
+//     // console.log("Articles", articles);
+
+//     // TODO end scrapping automagically
 //   } catch (error) {
-//     res.json(error);
+//     console.log(error);
 //   }
 // });
 
 (async () => {
-  const firstUrl = "http://gormahiafc.co.ke/category/news/page/32/";
+  const firstUrl = "http://gormahiafc.co.ke/category/news/page/1/";
 
   try {
     // parse html and extract data
     const articles = await extractArticles(firstUrl);
+    console.log(articles, "=============================");
 
-    // add to mongodb
-    // const bulkAdd = await ClubArticles.insertMany(articles);
-    console.log("Articles", articles);
+    writeFileToJSon("gor.json", articles);
+
+    // // add to mongodb
+    // ClubArticles.insertMany(articles);
+    // TODO stops this function from retu
+    process.exit(0);
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 })();
 
