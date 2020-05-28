@@ -113,6 +113,9 @@ async function extractVideos(url) {
     const $ = cheerio.load(res.data);
     videos = await videosOnPage($);
 
+    // generate moviejson
+    writeFileToJSon("videos.json", videos);
+
     return videos;
   } catch (error) {
     console.log(
@@ -120,6 +123,35 @@ async function extractVideos(url) {
     );
     return videos;
   }
+}
+
+async function videosOnPage($) {
+  // $ is the cheerio object
+
+  // TODO: fix this to be dynamic later on
+  let club = await getClubId("gormahiafc");
+
+  let videos = [];
+
+  // extracting the data we need
+  $("div.video-playlist-item").each(function (i, elem) {
+    // creating objects from each element87
+
+    videos[i] = new ClubVideos({
+      club: club._id,
+      title: $(this).find("div.video-info").children("h2").text().trim(),
+      duration: $(this)
+        .find("div.video-info")
+        .children("span.video-duration")
+        .text()
+        .trim(),
+      url: $(this).attr("data-video-src"),
+      thumbnail: $(this).find("div.video-thumbnail").attr("style"),
+      scrappedDate: new Date().toISOString(),
+    });
+  });
+
+  return videos;
 }
 
 // generate json file
