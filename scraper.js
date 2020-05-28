@@ -101,6 +101,27 @@ async function extractYouthArticles(url) {
   }
 }
 
+// ****************************** videos*********************************
+async function extractVideos(url) {
+  let videos = [];
+  try {
+    // fetch html
+    const res = await axios.get(url);
+    if (res.status == 404) return videos;
+
+    console.log(`Extracting video data from url :${url}`);
+    const $ = cheerio.load(res.data);
+    videos = await videosOnPage($);
+
+    return videos;
+  } catch (error) {
+    console.log(
+      `Error in scrapping terminanting:......................${url} `
+    );
+    return videos;
+  }
+}
+
 // generate json file
 async function writeFileToJSon(filename, list) {
   fs.writeFileSync(filename, JSON.stringify(list, null, 4), (err) => {
@@ -120,3 +141,4 @@ async function readHtmlFile(file) {
 exports.extractArticles = extractArticles;
 exports.extractYouthArticles = extractYouthArticles;
 exports.writeFileToJSon = writeFileToJSon;
+exports.extractVideos = extractVideos;
