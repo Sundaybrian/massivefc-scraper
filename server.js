@@ -4,7 +4,12 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const ClubArticles = require("./models/Article");
 
-const { readHtmlFile, writeFileToJSon, extractArticles } = require("./scraper");
+const {
+  readHtmlFile,
+  writeFileToJSon,
+  extractArticles,
+  extractYouthArticles,
+} = require("./scraper");
 
 dotenv.config();
 
@@ -33,13 +38,16 @@ mongoose.connect(
 
 (async () => {
   const firstUrl = "http://gormahiafc.co.ke/category/news/page/1/";
+  const youthUrl = "http://gormahiafc.co.ke/category/youth-team/";
 
   try {
-    // parse html and extract data
-    const articles = await extractArticles(firstUrl);
-    console.log(articles, "=============================");
+    // parse html and extract data for news
+    // const articles = await extractArticles(firstUrl);
+    // writeFileToJSon("gor.json", articles);
 
-    writeFileToJSon("gor.json", articles);
+    // parse html and extract youth data
+    const youthArticles = await extractYouthArticles(youthUrl);
+    console.log(youthArticles, "=============================");
 
     // // add to mongodb
     // ClubArticles.insertMany(articles);

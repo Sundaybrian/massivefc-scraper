@@ -16,15 +16,7 @@ async function getClubId(clubname) {
   }
 }
 
-// create html file
-async function createFile(html) {
-  fs.writeFile("gor.html", html, (err) => {
-    if (err) console.log(err);
-    else console.log("file written");
-  });
-}
-
-// reap data from the html file
+// recursively collect news pages
 async function extractArticles(url) {
   let articles = [];
   try {
@@ -65,6 +57,7 @@ async function articlesOnPage($) {
   // extracting the data we need
   $("li.post-item").each(function (i, elem) {
     // creating objects from each element87
+
     articles[i] = new ClubArticles({
       club: club._id,
       title: $(this).find("h2.post-title").children("a").text().trim(),
@@ -73,10 +66,39 @@ async function articlesOnPage($) {
       imageUrl: $(this).find("img").attr("src"),
       createdAt: $(this).find("span.date.meta-item").text().trim(),
       scrappedDate: new Date().toISOString(),
+      category: $(this)
+        .attr("class")
+        .split(" ")
+        .find((item) => item.startsWith("category")),
     });
   });
 
   return articles;
+}
+
+// *********************************youth page************************************
+// recursively collect news pages
+async function extractYouthArticles(url) {
+  let articles = [];
+  try {
+    // fetch html
+    const res = await axios.get(url);
+    if (res.status == 404) return articles;
+
+    console.log(`Extracting data from url :${url}`);
+    const $ = cheerio.load(res.data);
+    articles = await articlesOnPage($);
+
+    // generate youthjson
+    writeFileToJSon("youth.json", articles);
+
+    return articles;
+  } catch (error) {
+    console.log(
+      `Error in scrapping terminanting:......................${url} `
+    );
+    return articles;
+  }
 }
 
 // generate json file
@@ -95,6 +117,6 @@ async function readHtmlFile(file) {
   });
 }
 
-exports.createFile = createFile;
 exports.extractArticles = extractArticles;
+exports.extractYouthArticles = extractYouthArticles;
 exports.writeFileToJSon = writeFileToJSon;

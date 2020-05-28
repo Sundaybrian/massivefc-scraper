@@ -24,6 +24,9 @@ const clubArticleSchema = new mongoose.Schema({
     type: Date,
     default: Date.now,
   },
+  category: {
+    type: String,
+  },
 });
 
 module.exports = mongoose.model("ClubArticle", clubArticleSchema);
