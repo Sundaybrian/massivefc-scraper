@@ -4,6 +4,7 @@ const cheerio = require("cheerio");
 const ClubArticles = require("./models/Article");
 const ClubVideos = require("./models/Videos");
 const Club = require("./models/Club");
+const chalk = require("chalk");
 
 // various action will be here
 
@@ -35,12 +36,12 @@ async function extractArticles(url) {
     const nextpage = parseInt(url.match(/page\/(\d+)/)[1], 10) + 1;
     const nextUrl = `http://gormahiafc.co.ke/category/news/page/${nextpage}/`;
 
-    console.log(`Extracting next page ${nextUrl}`);
+    console.log(chalk.greenBright(`Extracting next page ${nextUrl}`));
     // recursively access next page
     return articles.concat(await extractArticles(nextUrl));
   } catch (error) {
     console.log(
-      `Error in scrapping terminanting:......................${url} `
+      chalk.red(`Error in scrapping terminanting:......................${url} `)
     );
     return articles.slice(0, articles.length);
   }
