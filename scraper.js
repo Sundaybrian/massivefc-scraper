@@ -79,8 +79,9 @@ async function articlesOnPage($) {
 }
 
 // *********************************youth page************************************
+// will scrape both youth and history
 // recursively collect news pages
-async function extractYouthArticles(url) {
+async function extractYouthArticles(url, filename) {
   let articles = [];
   try {
     // fetch html
@@ -92,7 +93,7 @@ async function extractYouthArticles(url) {
     articles = await articlesOnPage($);
 
     // generate youthjson
-    writeFileToJSon("youth.json", articles);
+    writeFileToJSon(filename, articles);
 
     return articles;
   } catch (error) {

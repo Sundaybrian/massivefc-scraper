@@ -42,6 +42,8 @@ mongoose.connect(
   const firstUrl = "http://gormahiafc.co.ke/category/news/page/1/";
   const youthUrl = "http://gormahiafc.co.ke/category/youth-team/";
   const videoUrl = "http://gormahiafc.co.ke/";
+  const history = "http://gormahiafc.co.ke/category/history/";
+  const gallery = "http://gormahiafc.co.ke/category/gallery/";
 
   try {
     // parse html and extract data for news
@@ -50,10 +52,26 @@ mongoose.connect(
 
     // parse html and extract youth data
     // const youthArticles = await extractYouthArticles(youthUrl);
-    // console.log(youthArticles, "=============================");
+    // console.log(
+    //   chalk.yellowBright(youthArticles),
+    //   "============================="
+    // );
 
-    const videos = await extractVideos(videoUrl);
-    console.log(chalk.yellowBright(videos));
+    // parse html and extract history data
+    // const historyArticles = await extractYouthArticles(history);
+    // console.log(
+    //   chalk.greenBright(historyArticles),
+    //   "============================="
+    // );
+
+    const galleryArticles = await extractYouthArticles(gallery, "gallery.json");
+    console.log(
+      chalk.blueBright(galleryArticles),
+      "============================="
+    );
+
+    // const videos = await extractVideos(videoUrl);
+    // console.log(chalk.yellowBright(videos));
 
     // // add to mongodb
     // ClubArticles.insertMany(articles);
