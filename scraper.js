@@ -18,7 +18,7 @@ async function getClubId(clubname) {
   }
 }
 
-// recursively collect news pages
+// r****************************recursively collect news pages
 async function extractArticles(url) {
   let articles = [];
   try {
@@ -26,7 +26,7 @@ async function extractArticles(url) {
     const res = await axios.get(url);
     if (res.status == 404) return articles.slice(0, articles.length);
 
-    console.log(`Extracting data from url :${url}`);
+    console.log(chalk.cyanBright(`Extracting data from url :${url}`));
     const $ = cheerio.load(res.data);
     articles = await articlesOnPage($);
 
@@ -41,7 +41,11 @@ async function extractArticles(url) {
     return articles.concat(await extractArticles(nextUrl));
   } catch (error) {
     console.log(
-      chalk.red(`Error in scrapping terminanting:......................${url} `)
+      chalk.red(
+        chalk.red(
+          `Error in scrapping terminanting:......................${url} `
+        )
+      )
     );
     return articles.slice(0, articles.length);
   }
