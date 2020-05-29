@@ -30,21 +30,21 @@ async function extractArticles(url) {
     const $ = cheerio.load(res.data);
     articles = await articlesOnPage($);
 
+    await writeFileToJSon(`jsons/gor${new Date().toString()}.json`, articles);
+
     // Go to next page
     // "http://gormahiafc.co.ke/category/news/page/2/".match(/page\/(\d+)/);
 
     const nextpage = parseInt(url.match(/page\/(\d+)/)[1], 10) + 1;
     const nextUrl = `http://gormahiafc.co.ke/category/news/page/${nextpage}/`;
 
-    console.log(chalk.greenBright(`Extracting next page ${nextUrl}`));
+    console.log(chalk.greenBright(`Fetching next page ${nextUrl}`));
     // recursively access next page
     return articles.concat(await extractArticles(nextUrl));
   } catch (error) {
     console.log(
       chalk.red(
-        chalk.red(
-          `Error in scrapping terminanting:......................${url} `
-        )
+        `Error in scrapping terminanting:......................${error} `
       )
     );
     return articles.slice(0, articles.length);
@@ -165,8 +165,7 @@ async function videosOnPage($) {
 async function writeFileToJSon(filename, list) {
   fs.writeFileSync(filename, JSON.stringify(list, null, 4), (err) => {
     if (err) throw err;
-    console.log("-------------File succesfully written------------");
-    process.exit(0);
+    console.log(chalk.yellow(`file written succesfully ${filename}`));
   });
 }
 

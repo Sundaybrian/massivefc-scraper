@@ -48,8 +48,6 @@ mongoose.connect(
   try {
     // parse html and extract data for news
     const articles = await extractArticles(firstUrl);
-    writeFileToJSon("gor.json", articles);
-    console.log(chalk.yellowBright(articles), "=============================");
 
     // parse html and extract youth data
     // const youthArticles = await extractYouthArticles(youthUrl);
