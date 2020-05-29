@@ -2,6 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 const cheerio = require("cheerio");
 const ClubArticles = require("./models/Article");
+const ClubVideos = require("./models/Videos");
 const Club = require("./models/Club");
 
 // various action will be here
